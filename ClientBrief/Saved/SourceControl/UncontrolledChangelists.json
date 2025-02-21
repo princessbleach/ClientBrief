@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2423029/Documents/GitHub/ClientBrief/ClientBrief/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/2423029/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/RK/0RW9SEMA75U2G6FRXU7EVT.uasset",
+				"C:/Users/2423029/Documents/GitHub/ClientBrief/ClientBrief/Content/ThirdPerson/Blueprints/CS_BaseShake.uasset",
+				"C:/Users/2423029/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/2423029/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset",
+				"C:/Users/2423029/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
 				"C:/Users/zoeoe/OneDrive/Documents/Unreal Projects/ClientBrief/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/zoeoe/OneDrive/Documents/Unreal Projects/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/zoeoe/OneDrive/Documents/Unreal Projects/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
