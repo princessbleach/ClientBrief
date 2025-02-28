@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/ThirdPerson/Maps/PuzzleTest.umap",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/RK/0RW9SEMA75U2G6FRXU7EVT.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/DebugPuzzleTests/Scale.uasset",
 				"C:/Users/2309989/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0V/YO1IWLP4LX56S2EJTEGP2I.uasset",
 				"C:/Users/2309989/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/RK/0RW9SEMA75U2G6FRXU7EVT.uasset",
 				"C:/Users/2309989/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/5Y/HZONIL1HS1G77CDKGMS5KC.uasset",
