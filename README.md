@@ -12,7 +12,7 @@
 - Detail how these sources have informed your practical work and influenced your approach.
 
 ### Game Sources  
-When researching Litle Nightmares 2, it became apparent that its horror-fueled tension relied on foul/disturbing atmospheres and spaces rather than sudden jumpascares and typical horror tactics.
+When researching Litle Nightmares 2, it became apparent that its horror-fueled tension relied on foul/disturbing atmospheres and spaces rather than sudden jumpascares and typical horror tactics. Therefore we decided to create a space tat alligned with this idea. 
 
 ### Academic Sources  
 - Research academic papers, books, or articles that provide theoretical guidance for your project. Include a brief summary of each source.  
