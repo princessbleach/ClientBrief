@@ -4562,3 +4562,890 @@ Make sure 'BP_Broom_C' has been compiled for  Bind Event to Interact Dispatcher
 [2025.03.14-15.14.07:635][204]AssetCheck: /Game/Dynamic/ThirdPerson/Input/IMC_Default Validating asset
 [2025.03.14-15.14.07:635][204]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_CameraShake.BP_CameraShake
 [2025.03.14-15.14.07:635][204]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_CameraShake Validating asset
+[2025.03.14-15.15.45:673][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.15.45:682][697]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.15.45:682][697]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.15.45:684][697]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.446 ms (total: 90.832 ms)
+[2025.03.14-15.15.45:685][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.15.45:686][697]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.15.45:690][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003907s)
+[2025.03.14-15.15.45:690][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003935s)
+[2025.03.14-15.15.45:702][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.14-15.15.45:705][697]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.15.45:706][697]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.15.45:706][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.15.45:706][697]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.15.45:706][697]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.15.45:707][697]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.15.45:707][697]LogWorldPartition: Display: WorldPartition initialize took 1.701 ms (total: 1.29 sec)
+[2025.03.14-15.15.45:707][697]LogPlayLevel: PIE: World Init took: (0.002807s)
+[2025.03.14-15.15.45:719][697]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.15.45:719][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.15.45:719][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.15.45:719][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.15.45:719][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.15.45:719][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.15.45:721][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.15.45:774][697]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.15.45:775][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.15.45:775][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.15.45:775][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.15.45:776][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.03.14-15.15.45:776][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.03.14-15.15.45:777][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.03.14-15.15.45:777][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.03.14-15.15.45:777][697]LogInit: FAudioDevice initialized with ID 36.
+[2025.03.14-15.15.45:777][697]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.15.45:777][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.03.14-15.15.45:780][697]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.15.45:785][697]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.15.45
+[2025.03.14-15.15.45:785][697]LogWorld: Bringing up level for play took: 0.004783
+[2025.03.14-15.15.45:787][697]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.03.14-15.15.45:799][697]PIE: Server logged in
+[2025.03.14-15.15.45:800][697]PIE: Play in editor total start time 0.121 seconds.
+[2025.03.14-15.16.50:996][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.16.50:996][368]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.16.50:996][368]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.16.50:997][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.16.50:997][368]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.16.50:997][368]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.16.50:997][368]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.16.50:997][368]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.16.51:001][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.16.51:005][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.16.51:017][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.16.51:018][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.03.14-15.16.51:018][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.03.14-15.16.51:019][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.03.14-15.16.51:025][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.14-15.16.51:083][369]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.03.14-15.20.51:009][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.20.51:019][932]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.20.51:019][932]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.20.51:021][932]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.707 ms (total: 93.539 ms)
+[2025.03.14-15.20.51:022][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.20.51:044][932]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.20.51:048][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004218s)
+[2025.03.14-15.20.51:048][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004256s)
+[2025.03.14-15.20.51:060][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.14-15.20.51:064][932]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.20.51:065][932]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.20.51:065][932]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.20.51:065][932]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.20.51:065][932]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.20.51:067][932]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.20.51:067][932]LogWorldPartition: Display: WorldPartition initialize took 1.598 ms (total: 1.29 sec)
+[2025.03.14-15.20.51:067][932]LogPlayLevel: PIE: World Init took: (0.002720s)
+[2025.03.14-15.20.51:080][932]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.20.51:080][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.20.51:080][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.20.51:080][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.20.51:080][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.20.51:080][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.20.51:081][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.20.51:134][932]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.20.51:134][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.20.51:134][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.20.51:134][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.20.51:135][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.03.14-15.20.51:135][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.03.14-15.20.51:136][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.03.14-15.20.51:136][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.03.14-15.20.51:136][932]LogInit: FAudioDevice initialized with ID 37.
+[2025.03.14-15.20.51:136][932]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.20.51:136][932]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.03.14-15.20.51:138][932]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.20.51:144][932]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.20.51
+[2025.03.14-15.20.51:144][932]LogWorld: Bringing up level for play took: 0.004973
+[2025.03.14-15.20.51:146][932]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.03.14-15.20.51:158][932]PIE: Server logged in
+[2025.03.14-15.20.51:159][932]PIE: Play in editor total start time 0.142 seconds.
+[2025.03.14-15.21.50:406][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.21.50:406][939]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.21.50:407][939]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.21.50:407][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.21.50:407][939]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.21.50:407][939]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.21.50:407][939]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.21.50:407][939]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.21.50:411][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.21.50:414][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.21.50:427][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.21.50:428][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.03.14-15.21.50:428][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.03.14-15.21.50:429][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.03.14-15.21.50:436][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.14-15.21.50:488][940]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.03.14-15.24.24:020][603]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.14-15.24.24:083][603]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.14-15.24.24:092][603]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.14-15.24.24:104][604]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.14-15.24.30:929][279]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Scale
+[2025.03.14-15.24.30:934][279]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.14-15.24.32:539][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale_C
+[2025.03.14-15.24.32:539][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale_C
+[2025.03.14-15.24.32:540][424]LogActorFactory: Actor Factory spawned Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale as actor: BP_Scale_C /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_0
+[2025.03.14-15.24.32:540][424]LogActorFactory: Actor Factory spawned Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale as actor: BP_Scale_C /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_0
+[2025.03.14-15.24.33:945][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.03.14-15.24.33:949][551]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.03.14-15.24.33:955][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale_C
+[2025.03.14-15.24.33:955][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale_C
+[2025.03.14-15.24.33:958][551]LogActorFactory: Actor Factory spawned Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale as actor: BP_Scale_C /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_UAID_4CD717924A7D195502_1193705656
+[2025.03.14-15.24.33:958][551]LogActorFactory: Actor Factory spawned Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale as actor: BP_Scale_C /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_UAID_4CD717924A7D195502_1193705656
+[2025.03.14-15.24.39:765][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale
+[2025.03.14-15.24.57:312][839]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:313][839]LogPhysics: Warning: Scale for /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_UAID_4CD717924A7D195502_1193705656.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:313][839]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:331][840]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:331][840]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:331][840]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:350][841]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:350][841]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:350][841]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:367][842]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:367][842]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:367][842]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:386][843]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:386][843]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:386][843]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:404][844]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:404][844]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:404][844]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:423][845]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:423][845]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:423][845]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:441][846]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:441][846]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:441][846]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:460][847]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:460][847]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:460][847]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:477][848]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:477][848]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:477][848]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:496][849]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:496][849]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:496][849]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:514][850]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:514][850]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:514][850]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:532][851]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:532][851]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:532][851]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:551][852]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:551][852]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:551][852]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:569][853]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:570][853]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:570][853]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:588][854]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.57:588][854]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.03.14-15.24.59:636][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:636][ 10]LogPhysics: Warning: Scale for /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_UAID_4CD717924A7D195502_1193705656.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:637][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:654][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:654][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:655][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:673][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:673][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:673][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:690][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:690][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:690][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:707][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:708][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:708][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:726][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:726][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:726][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:743][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:743][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:743][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:761][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:761][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:761][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:778][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:778][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:778][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:797][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:797][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.24.59:797][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:314][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:314][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:314][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:331][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:331][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:331][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:349][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:350][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:350][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:367][ 66]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:367][ 66]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:367][ 66]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:385][ 67]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.00:385][ 67]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.250
+[2025.03.14-15.25.01:632][151]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:632][151]LogPhysics: Warning: Scale for /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Scale_C_UAID_4CD717924A7D195502_1193705656.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:633][151]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:651][152]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:651][152]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:651][152]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:669][153]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:669][153]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:670][153]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:688][154]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:688][154]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:688][154]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:707][155]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:707][155]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:707][155]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:724][156]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:724][156]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:724][156]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:742][157]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:742][157]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:742][157]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:759][158]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:760][158]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:760][158]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:777][159]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:777][159]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:777][159]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:796][160]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:796][160]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:796][160]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:814][161]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:814][161]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:814][161]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:833][162]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:833][162]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:833][162]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:850][163]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:850][163]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:850][163]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:868][164]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:868][164]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:868][164]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:887][165]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:887][165]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:887][165]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:905][166]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:905][166]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:905][166]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:922][167]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:922][167]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:922][167]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:940][168]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.01:940][168]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_Scale_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.250
+[2025.03.14-15.25.23:180][ 37]Cmd: DELETE
+[2025.03.14-15.25.23:181][ 37]Cmd: ACTOR DELETE
+[2025.03.14-15.25.23:182][ 37]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.14-15.25.23:199][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.14-15.25.23:205][ 37]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.03.14-15.25.23:553][ 62]Cmd: DELETE
+[2025.03.14-15.25.23:553][ 62]Cmd: ACTOR DELETE
+[2025.03.14-15.25.23:554][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.14-15.25.23:568][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.14-15.25.23:573][ 62]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.03.14-15.25.24:217][118]Cmd: DELETE
+[2025.03.14-15.25.24:217][118]Cmd: ACTOR DELETE
+[2025.03.14-15.25.24:218][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.14-15.25.24:231][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.14-15.25.24:236][118]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.03.14-15.25.24:738][156]Cmd: DELETE
+[2025.03.14-15.25.24:738][156]Cmd: ACTOR DELETE
+[2025.03.14-15.25.24:740][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.14-15.25.24:751][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.14-15.25.24:756][156]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.03.14-15.27.09:723][286]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.14-15.27.25:178][434]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.14-15.27.57:186][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.14-15.27.57:191][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/2/7V/OPT049P2DA087YUE89M7B7_Auto7
+[2025.03.14-15.27.57:191][236]LogSavePackage: Moving '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/OPT049P2DA087YUE89M7B7_Auto776F747BC4478BFD7964B7292A1425FFA.tmp' to '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/2/7V/OPT049P2DA087YUE89M7B7_Auto7.uasset'
+[2025.03.14-15.27.57:193][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B_Auto7
+[2025.03.14-15.27.57:193][236]LogSavePackage: Moving '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/K7IF26M5QRYQ4HGRK8RH0B_Auto7CD12E7A048573B3A80D0C29C6E52BBBF.tmp' to '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B_Auto7.uasset'
+[2025.03.14-15.27.57:194][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2025.03.14-15.27.57:194][236]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.03.14-15.27.57:194][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale] ([2] browsable assets)...
+[2025.03.14-15.27.57:200][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale]
+[2025.03.14-15.27.57:200][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale]
+[2025.03.14-15.27.57:204][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale_Auto7
+[2025.03.14-15.27.57:204][236]LogSavePackage: Moving '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Scale_Auto7EC8F786C4E3059A7FF0494A1CFD9F460.tmp' to '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale_Auto7.uasset'
+[2025.03.14-15.27.57:205][236]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.03.14-15.31.07:700][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.03.14-15.32.36:092][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.14-15.35.35:836][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.03.14-15.37.52:946][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.14-15.38.06:035][215]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.14-15.38.12:019][599]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.14-15.38.12:574][607]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.14-15.38.26:957][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.14-15.39.36:591][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.14-15.39.37:631][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.39.37:642][545]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.39.37:642][545]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.39.37:645][545]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.745 ms (total: 96.285 ms)
+[2025.03.14-15.39.37:646][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.39.37:646][545]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.39.37:650][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004041s)
+[2025.03.14-15.39.37:650][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004075s)
+[2025.03.14-15.39.37:661][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.14-15.39.37:666][545]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.39.37:667][545]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.39.37:667][545]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.39.37:667][545]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.39.37:667][545]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.39.37:668][545]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.39.37:668][545]LogWorldPartition: Display: WorldPartition initialize took 1.572 ms (total: 1.29 sec)
+[2025.03.14-15.39.37:668][545]LogPlayLevel: PIE: World Init took: (0.002688s)
+[2025.03.14-15.39.37:679][545]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.39.37:679][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.39.37:679][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.39.37:679][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.39.37:679][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.39.37:679][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.39.37:681][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.39.37:734][545]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.39.37:734][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.39.37:734][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.39.37:734][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.39.37:735][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.03.14-15.39.37:735][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.03.14-15.39.37:736][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.03.14-15.39.37:736][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.03.14-15.39.37:736][545]LogInit: FAudioDevice initialized with ID 38.
+[2025.03.14-15.39.37:736][545]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.39.37:736][545]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.03.14-15.39.37:739][545]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.39.37:743][545]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.39.37
+[2025.03.14-15.39.37:743][545]LogWorld: Bringing up level for play took: 0.004848
+[2025.03.14-15.39.37:745][545]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.03.14-15.39.37:758][545]PIE: Server logged in
+[2025.03.14-15.39.37:759][545]PIE: Play in editor total start time 0.12 seconds.
+[2025.03.14-15.40.01:398][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.40.01:398][855]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.40.01:398][855]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.40.01:399][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.40.01:399][855]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.40.01:399][855]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.40.01:399][855]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.40.01:399][855]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.40.01:426][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.40.01:430][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.40.01:443][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-15.40.01:443][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.03.14-15.40.01:443][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.03.14-15.40.01:444][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.03.14-15.40.01:448][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.40.01:451][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.14-15.40.01:533][856]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.03.14-15.40.48:054][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.14-15.40.49:439][189]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.40.49:449][189]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.40.49:449][189]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.40.49:451][189]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.522 ms (total: 98.807 ms)
+[2025.03.14-15.40.49:452][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.40.49:452][189]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.40.49:456][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003724s)
+[2025.03.14-15.40.49:456][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003751s)
+[2025.03.14-15.40.49:467][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.14-15.40.49:471][189]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.40.49:473][189]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.40.49:473][189]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.40.49:473][189]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.40.49:473][189]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.40.49:475][189]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.40.49:475][189]LogWorldPartition: Display: WorldPartition initialize took 1.766 ms (total: 1.30 sec)
+[2025.03.14-15.40.49:475][189]LogPlayLevel: PIE: World Init took: (0.002938s)
+[2025.03.14-15.40.49:486][189]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.40.49:486][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.40.49:486][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.40.49:486][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.40.49:486][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.40.49:486][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.40.49:488][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.40.49:541][189]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.40.49:541][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.40.49:541][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.40.49:541][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.40.49:541][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.03.14-15.40.49:541][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.03.14-15.40.49:543][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.03.14-15.40.49:543][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.03.14-15.40.49:543][189]LogInit: FAudioDevice initialized with ID 39.
+[2025.03.14-15.40.49:543][189]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.40.49:543][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.03.14-15.40.49:545][189]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.40.49:550][189]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.40.49
+[2025.03.14-15.40.49:550][189]LogWorld: Bringing up level for play took: 0.004833
+[2025.03.14-15.40.49:551][189]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.03.14-15.40.49:564][189]PIE: Server logged in
+[2025.03.14-15.40.49:565][189]PIE: Play in editor total start time 0.118 seconds.
+[2025.03.14-15.41.34:428][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.41.34:428][263]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.41.34:428][263]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.41.34:429][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.41.34:429][263]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.41.34:429][263]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.41.34:429][263]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.41.34:429][263]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.41.34:463][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.41.34:468][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.41.34:481][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-15.41.34:481][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.03.14-15.41.34:481][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.03.14-15.41.34:482][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.03.14-15.41.34:486][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.41.34:489][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.14-15.41.34:600][264]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.03.14-15.41.37:700][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.41.37:708][517]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.41.37:708][517]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.41.37:711][517]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.487 ms (total: 101.294 ms)
+[2025.03.14-15.41.37:713][517]LogPlayLevel: [PlayLevel] Compiling BP_Scale before play...
+[2025.03.14-15.41.37:790][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.14-15.41.37:793][517]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2025.03.14-15.41.37:793][517]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.41.37:797][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003652s)
+[2025.03.14-15.41.37:797][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003683s)
+[2025.03.14-15.41.37:813][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.14-15.41.37:816][517]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.41.37:817][517]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.41.37:817][517]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.41.37:817][517]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.41.37:817][517]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.41.37:819][517]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.41.37:819][517]LogWorldPartition: Display: WorldPartition initialize took 1.545 ms (total: 1.30 sec)
+[2025.03.14-15.41.37:819][517]LogPlayLevel: PIE: World Init took: (0.002542s)
+[2025.03.14-15.41.37:831][517]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.41.37:831][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.41.37:831][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.41.37:831][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.41.37:831][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.41.37:831][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.41.37:832][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.41.37:886][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.41.37:887][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.41.37:887][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.41.37:887][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.41.37:887][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.03.14-15.41.37:887][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.03.14-15.41.37:888][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.03.14-15.41.37:888][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.03.14-15.41.37:888][517]LogInit: FAudioDevice initialized with ID 40.
+[2025.03.14-15.41.37:888][517]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.41.37:888][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.03.14-15.41.37:891][517]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.41.37:895][517]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.41.37
+[2025.03.14-15.41.37:895][517]LogWorld: Bringing up level for play took: 0.004622
+[2025.03.14-15.41.37:896][517]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.03.14-15.41.37:910][517]PIE: Server logged in
+[2025.03.14-15.41.37:910][517]PIE: Play in editor total start time 0.203 seconds.
+[2025.03.14-15.41.58:077][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.41.58:078][318]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.41.58:078][318]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.41.58:078][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.41.58:078][318]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.41.58:078][318]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.41.58:078][318]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.41.58:078][318]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.41.58:115][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.41.58:119][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.41.58:132][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.41.58:133][318]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.03.14-15.41.58:133][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.03.14-15.41.58:134][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.03.14-15.41.58:141][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.14-15.41.58:256][319]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.03.14-15.42.39:512][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.14-15.42.40:803][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.42.40:813][516]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.42.40:813][516]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.42.40:815][516]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.577 ms (total: 103.871 ms)
+[2025.03.14-15.42.40:816][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.42.40:817][516]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.42.40:820][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003573s)
+[2025.03.14-15.42.40:820][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003600s)
+[2025.03.14-15.42.40:832][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.14-15.42.40:837][516]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.42.40:837][516]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.42.40:837][516]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.42.40:838][516]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.42.40:838][516]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.42.40:839][516]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.42.40:839][516]LogWorldPartition: Display: WorldPartition initialize took 1.577 ms (total: 1.30 sec)
+[2025.03.14-15.42.40:839][516]LogPlayLevel: PIE: World Init took: (0.002605s)
+[2025.03.14-15.42.40:851][516]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.42.40:851][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.42.40:851][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.42.40:851][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.42.40:851][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.42.40:851][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.42.40:853][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.42.40:905][516]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.42.40:906][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.42.40:906][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.42.40:906][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.42.40:906][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.03.14-15.42.40:906][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.03.14-15.42.40:908][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.03.14-15.42.40:908][516]LogInit: FAudioDevice initialized with ID 41.
+[2025.03.14-15.42.40:908][516]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.42.40:908][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.03.14-15.42.40:908][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.03.14-15.42.40:942][516]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.42.40:946][516]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.42.40
+[2025.03.14-15.42.40:947][516]LogWorld: Bringing up level for play took: 0.004892
+[2025.03.14-15.42.40:949][516]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.03.14-15.42.40:961][516]PIE: Server logged in
+[2025.03.14-15.42.40:962][516]PIE: Play in editor total start time 0.152 seconds.
+[2025.03.14-15.43.26:798][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.43.26:798][391]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.43.26:799][391]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.43.26:800][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.43.26:800][391]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.43.26:800][391]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.43.26:800][391]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.43.26:800][391]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.43.26:833][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.43.26:837][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.43.26:850][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-15.43.26:850][391]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.03.14-15.43.26:850][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.03.14-15.43.26:851][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.03.14-15.43.26:861][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.43.26:865][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.03.14-15.43.26:965][392]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.03.14-15.46.36:868][714]LogBlueprint: Warning: [AssetLog] /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale: [Compiler] 'BP Player' does not inherit from 'Primitive Component' ( Cast To BP_Player  would always fail).
+[2025.03.14-15.46.36:904][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.14-15.46.50:807][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.14-15.46.52:655][992]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.46.52:666][992]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.46.52:666][992]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.46.52:669][992]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.763 ms (total: 106.635 ms)
+[2025.03.14-15.46.52:670][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.46.52:670][992]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.46.52:673][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003683s)
+[2025.03.14-15.46.52:673][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003711s)
+[2025.03.14-15.46.52:685][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.14-15.46.52:690][992]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.46.52:691][992]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.46.52:691][992]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.46.52:691][992]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.46.52:691][992]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.46.52:692][992]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.46.52:692][992]LogWorldPartition: Display: WorldPartition initialize took 1.552 ms (total: 1.30 sec)
+[2025.03.14-15.46.52:692][992]LogPlayLevel: PIE: World Init took: (0.002617s)
+[2025.03.14-15.46.52:704][992]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.46.52:704][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.46.52:704][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.46.52:704][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.46.52:704][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.46.52:704][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.46.52:705][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.46.52:769][992]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.46.52:769][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.46.52:769][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.46.52:770][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.46.52:770][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.03.14-15.46.52:770][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.03.14-15.46.52:772][992]LogInit: FAudioDevice initialized with ID 42.
+[2025.03.14-15.46.52:772][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.03.14-15.46.52:772][992]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.46.52:772][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.03.14-15.46.52:772][992]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.03.14-15.46.52:774][992]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.46.52:779][992]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.46.52
+[2025.03.14-15.46.52:779][992]LogWorld: Bringing up level for play took: 0.004920
+[2025.03.14-15.46.52:780][992]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.03.14-15.46.52:794][992]PIE: Server logged in
+[2025.03.14-15.46.52:794][992]PIE: Play in editor total start time 0.132 seconds.
+[2025.03.14-15.47.03:036][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.47.03:036][ 11]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.47.03:036][ 11]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.47.03:037][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.47.03:037][ 11]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.47.03:037][ 11]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.47.03:037][ 11]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.47.03:037][ 11]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.47.03:097][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.47.03:101][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.47.03:115][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-15.47.03:115][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.03.14-15.47.03:115][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.03.14-15.47.03:116][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.03.14-15.47.03:120][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.47.03:123][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.03.14-15.47.03:234][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.03.14-15.47.19:218][387]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.47.19:228][387]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.47.19:228][387]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.47.19:230][387]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.479 ms (total: 109.114 ms)
+[2025.03.14-15.47.19:231][387]LogPlayLevel: [PlayLevel] Compiling BP_Scale before play...
+[2025.03.14-15.47.19:325][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.14-15.47.19:330][387]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (1 blueprints)
+[2025.03.14-15.47.19:330][387]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.47.19:335][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003836s)
+[2025.03.14-15.47.19:335][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003870s)
+[2025.03.14-15.47.19:345][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.14-15.47.19:348][387]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.47.19:349][387]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.47.19:349][387]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.47.19:349][387]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.47.19:349][387]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.47.19:350][387]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.47.19:350][387]LogWorldPartition: Display: WorldPartition initialize took 1.524 ms (total: 1.30 sec)
+[2025.03.14-15.47.19:350][387]LogPlayLevel: PIE: World Init took: (0.002487s)
+[2025.03.14-15.47.19:362][387]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.47.19:362][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.47.19:362][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.47.19:362][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.47.19:362][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.47.19:362][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.47.19:364][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.47.19:416][387]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.47.19:417][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.47.19:417][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.47.19:417][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.47.19:417][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.03.14-15.47.19:417][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.03.14-15.47.19:419][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.03.14-15.47.19:419][387]LogInit: FAudioDevice initialized with ID 43.
+[2025.03.14-15.47.19:419][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.03.14-15.47.19:419][387]LogAudio: Display: Audio Device (ID: 43) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.47.19:419][387]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.03.14-15.47.19:421][387]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.47.19:426][387]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.47.19
+[2025.03.14-15.47.19:426][387]LogWorld: Bringing up level for play took: 0.004948
+[2025.03.14-15.47.19:428][387]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.03.14-15.47.19:441][387]PIE: Server logged in
+[2025.03.14-15.47.19:441][387]PIE: Play in editor total start time 0.217 seconds.
+[2025.03.14-15.47.30:895][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.47.30:895][479]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.47.30:896][479]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.47.30:896][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.47.30:896][479]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.47.30:896][479]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.47.30:896][479]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.47.30:897][479]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.47.30:903][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.47.30:907][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.47.30:920][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.47.30:921][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.03.14-15.47.30:921][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.03.14-15.47.30:923][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.03.14-15.47.30:929][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.14-15.47.31:076][480]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.03.14-15.48.21:266][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.14-15.49.16:631][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.14-15.49.19:265][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.49.19:277][763]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.49.19:277][763]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.49.19:280][763]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.491 ms (total: 111.606 ms)
+[2025.03.14-15.49.19:281][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.49.19:281][763]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.49.19:285][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004081s)
+[2025.03.14-15.49.19:285][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004107s)
+[2025.03.14-15.49.19:296][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.14-15.49.19:301][763]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.49.19:301][763]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.49.19:301][763]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.49.19:301][763]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.49.19:301][763]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.49.19:303][763]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.49.19:303][763]LogWorldPartition: Display: WorldPartition initialize took 1.562 ms (total: 1.30 sec)
+[2025.03.14-15.49.19:303][763]LogPlayLevel: PIE: World Init took: (0.002543s)
+[2025.03.14-15.49.19:315][763]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.49.19:315][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.49.19:315][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.49.19:315][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.49.19:315][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.49.19:315][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.49.19:317][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.49.19:369][763]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.49.19:370][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.49.19:370][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.49.19:370][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.49.19:373][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.03.14-15.49.19:373][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.03.14-15.49.19:374][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.03.14-15.49.19:374][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.03.14-15.49.19:374][763]LogInit: FAudioDevice initialized with ID 44.
+[2025.03.14-15.49.19:374][763]LogAudio: Display: Audio Device (ID: 44) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.49.19:375][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.03.14-15.49.19:377][763]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.49.19:383][763]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.49.19
+[2025.03.14-15.49.19:383][763]LogWorld: Bringing up level for play took: 0.004856
+[2025.03.14-15.49.19:384][763]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.03.14-15.49.19:397][763]PIE: Server logged in
+[2025.03.14-15.49.19:398][763]PIE: Play in editor total start time 0.125 seconds.
+[2025.03.14-15.49.43:087][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.49.43:087][208]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.49.43:087][208]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.49.43:088][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.49.43:088][208]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.49.43:088][208]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.49.43:088][208]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.49.43:088][208]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.49.43:149][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.49.43:153][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.49.43:166][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-15.49.43:166][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.03.14-15.49.43:166][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.03.14-15.49.43:167][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.03.14-15.49.43:171][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.49.43:175][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.03.14-15.49.43:289][209]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.03.14-15.50.40:984][240]LogDerivedDataCache: C:/Users/2310715/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.14-15.51.44:603][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.14-15.51.57:004][809]LogEditorTransaction: Undo Delete current selection
+[2025.03.14-15.52.02:551][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.14-15.52.09:281][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-15.52.09:290][827]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-15.52.09:290][827]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-15.52.09:293][827]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.585 ms (total: 114.192 ms)
+[2025.03.14-15.52.09:294][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-15.52.09:344][827]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.52.09:348][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003981s)
+[2025.03.14-15.52.09:348][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004016s)
+[2025.03.14-15.52.09:361][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.14-15.52.09:367][827]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.14-15.52.09:368][827]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-15.52.09:368][827]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-15.52.09:368][827]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-15.52.09:368][827]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-15.52.09:369][827]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.14-15.52.09:369][827]LogWorldPartition: Display: WorldPartition initialize took 1.775 ms (total: 1.31 sec)
+[2025.03.14-15.52.09:369][827]LogPlayLevel: PIE: World Init took: (0.002966s)
+[2025.03.14-15.52.09:383][827]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-15.52.09:383][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-15.52.09:383][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-15.52.09:383][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-15.52.09:383][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-15.52.09:383][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-15.52.09:384][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-15.52.09:436][827]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-15.52.09:437][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-15.52.09:438][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-15.52.09:438][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-15.52.09:438][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.03.14-15.52.09:438][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.03.14-15.52.09:440][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.03.14-15.52.09:440][827]LogInit: FAudioDevice initialized with ID 45.
+[2025.03.14-15.52.09:440][827]LogAudio: Display: Audio Device (ID: 45) registered with world 'ThirdPersonMap'.
+[2025.03.14-15.52.09:440][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.03.14-15.52.09:440][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.03.14-15.52.09:441][827]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.14-15.52.09:446][827]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-15.52.09
+[2025.03.14-15.52.09:446][827]LogWorld: Bringing up level for play took: 0.004619
+[2025.03.14-15.52.09:448][827]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.03.14-15.52.09:461][827]PIE: Server logged in
+[2025.03.14-15.52.09:462][827]PIE: Play in editor total start time 0.174 seconds.
+[2025.03.14-15.52.38:496][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.52.38:496][853]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-15.52.38:496][853]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-15.52.38:497][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.52.38:497][853]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.52.38:497][853]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-15.52.38:497][853]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.14-15.52.38:497][853]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.14-15.52.38:559][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-15.52.38:563][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-15.52.38:576][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-15.52.38:576][853]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.03.14-15.52.38:577][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.03.14-15.52.38:578][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.03.14-15.52.38:581][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-15.52.38:584][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.14-15.52.38:703][854]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.03.14-15.52.39:352][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-15.52.39:429][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.03.14-15.52.39:445][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.14-15.52.39:464][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.14-15.52.39:469][905]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/2/7V/OPT049P2DA087YUE89M7B7
+[2025.03.14-15.52.39:470][905]LogSavePackage: Moving '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/OPT049P2DA087YUE89M7B7FCA1D0B84F7C5A935DF97CB02069E9C3.tmp' to '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/2/7V/OPT049P2DA087YUE89M7B7.uasset'
+[2025.03.14-15.52.39:472][905]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B
+[2025.03.14-15.52.39:472][905]LogSavePackage: Moving '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/K7IF26M5QRYQ4HGRK8RH0B33E86DB249F87F188E30DBA11089E275.tmp' to '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B.uasset'
+[2025.03.14-15.52.39:491][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.846 ms (total: 645.078 ms)
+[2025.03.14-15.52.39:544][905]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.14-15.52.39:544][905]LogContentValidation: Enabled validators:
+[2025.03.14-15.52.39:544][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.14-15.52.39:544][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.14-15.52.39:544][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.14-15.52.39:544][905]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.14-15.52.39:544][905]AssetCheck: /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.14-15.52.44:353][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.14-15.52.44:358][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-15.52.44:412][331]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale] ([2] browsable assets)...
+[2025.03.14-15.52.44:441][331]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale]
+[2025.03.14-15.52.44:441][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale]
+[2025.03.14-15.52.44:451][331]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale
+[2025.03.14-15.52.44:451][331]LogSavePackage: Moving '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Scale4357269942FF6AACB10CD9B03915FE8E.tmp' to '../../../../../../Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Scale.uasset'
+[2025.03.14-15.52.44:470][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.776 ms (total: 757.854 ms)
+[2025.03.14-15.52.44:511][331]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.14-15.52.44:511][331]LogContentValidation: Enabled validators:
+[2025.03.14-15.52.44:511][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.14-15.52.44:511][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.14-15.52.44:511][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.14-15.52.44:511][331]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale
+[2025.03.14-15.52.44:511][331]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale Validating asset
