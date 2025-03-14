@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Broom.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/3/GW/50U15BGN5RBGAE1DKZ6S2J.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/5/4H/YXWMHAVMO1Z2VHL22X6F63.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/5/W9/Z8YTZS79OXMGJGS5X1ECLF.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/2310715/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Input/Actions/IA_Interact.uasset",
 				"C:/Users/zoeoe/OneDrive/Documents/Unreal Projects/ClientBrief/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/zoeoe/OneDrive/Documents/Unreal Projects/ClientBrief/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/zoeoe/OneDrive/Documents/Unreal Projects/ClientBrief/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset",
