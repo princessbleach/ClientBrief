@@ -2853,3 +2853,1000 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.21-10.10.17:276][ 93]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.21-10.10.17:276][ 93]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
 [2025.03.21-10.10.17:276][ 93]AssetCheck: /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.21-10.11.13:849][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.21-10.11.13:852][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2025.03.21-10.11.13:853][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors] ([2] browsable assets)...
+[2025.03.21-10.11.13:962][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors.BP_Scissors]
+[2025.03.21-10.11.13:962][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors]
+[2025.03.21-10.11.13:966][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors_Auto3
+[2025.03.21-10.11.13:966][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Scissors_Auto34770CE174E386FD95614DE915BEDEB3E.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors_Auto3.uasset'
+[2025.03.21-10.11.13:967][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Razor] ([2] browsable assets)...
+[2025.03.21-10.11.14:002][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Razor.BP_Razor]
+[2025.03.21-10.11.14:002][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Razor]
+[2025.03.21-10.11.14:007][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Razor_Auto3
+[2025.03.21-10.11.14:007][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Razor_Auto3713F92044308A2995058E69409B87C05.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Razor_Auto3.uasset'
+[2025.03.21-10.11.14:007][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Broom] ([2] browsable assets)...
+[2025.03.21-10.11.14:007][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Broom]
+[2025.03.21-10.11.14:013][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Broom_Auto3
+[2025.03.21-10.11.14:014][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Broom_Auto3F1C76E614C21C7E0936BEDB90D66FC23.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Broom_Auto3.uasset'
+[2025.03.21-10.11.14:014][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Comb] ([2] browsable assets)...
+[2025.03.21-10.11.14:014][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Comb]
+[2025.03.21-10.11.14:017][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Comb_Auto3
+[2025.03.21-10.11.14:017][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Comb_Auto3EC88985F426E672C5248A59F7815FED5.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Comb_Auto3.uasset'
+[2025.03.21-10.11.14:018][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale] ([2] browsable assets)...
+[2025.03.21-10.11.14:030][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale]
+[2025.03.21-10.11.14:031][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale]
+[2025.03.21-10.11.14:042][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale_Auto3
+[2025.03.21-10.11.14:042][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Scale_Auto3854797BF4E103643B1013F98FBF2E516.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale_Auto3.uasset'
+[2025.03.21-10.11.14:043][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Jar] ([2] browsable assets)...
+[2025.03.21-10.11.14:043][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Jar]
+[2025.03.21-10.11.14:046][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Jar_Auto3
+[2025.03.21-10.11.14:046][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Jar_Auto3BE8E208D420D6643E711C68273E1A81B.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Jar_Auto3.uasset'
+[2025.03.21-10.11.14:047][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_] ([1] browsable assets)...
+[2025.03.21-10.11.14:047][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_]
+[2025.03.21-10.11.14:053][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3__Auto3
+[2025.03.21-10.11.14:053][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__3__Auto3E7DF54C14FC79323F7528A91D480F13B.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3__Auto3.uasset'
+[2025.03.21-10.11.14:053][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar] ([1] browsable assets)...
+[2025.03.21-10.11.14:059][644]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar.SM_BarberScales__4__SM_BarberScales_HorizontalBar]
+[2025.03.21-10.11.14:059][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar]
+[2025.03.21-10.11.14:062][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar_Auto3
+[2025.03.21-10.11.14:062][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberSca89798FEC46F3E60FDBD611918044B390.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar_Auto3.uasset'
+[2025.03.21-10.11.14:063][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1] ([1] browsable assets)...
+[2025.03.21-10.11.14:068][644]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1.SM_BarberScales__4__SM_BarberScales_Plate1]
+[2025.03.21-10.11.14:068][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1]
+[2025.03.21-10.11.14:073][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1_Auto3
+[2025.03.21-10.11.14:073][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberSca90ED6FBB4F60B2CA8177FBB0D8392266.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1_Auto3.uasset'
+[2025.03.21-10.11.14:073][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2] ([1] browsable assets)...
+[2025.03.21-10.11.14:078][644]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2.SM_BarberScales__4__SM_BarberScales_Plate2]
+[2025.03.21-10.11.14:078][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2]
+[2025.03.21-10.11.14:083][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2_Auto3
+[2025.03.21-10.11.14:083][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberScaCF3F8CD94CCC80B610DF3AB6ABCFE76D.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2_Auto3.uasset'
+[2025.03.21-10.11.14:084][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base] ([1] browsable assets)...
+[2025.03.21-10.11.14:090][644]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base.SM_BarberScales__4__SM_BarberScales_Base]
+[2025.03.21-10.11.14:090][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base]
+[2025.03.21-10.11.14:093][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base_Auto3
+[2025.03.21-10.11.14:093][644]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberSca80227A7540CE282CBC8C4DB5EB411B22.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base_Auto3.uasset'
+[2025.03.21-10.11.14:093][644]LogFileHelpers: Auto-saving content packages took 0.241
+[2025.03.21-10.11.19:400][828]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.21-10.11.19:405][828]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.21-10.11.39:799][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.11.39:809][143]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.11.39:809][143]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.11.39:813][143]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.180 ms (total: 67.710 ms)
+[2025.03.21-10.11.39:814][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.11.39:814][143]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.11.39:819][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005138s)
+[2025.03.21-10.11.39:819][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005166s)
+[2025.03.21-10.11.39:829][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.21-10.11.39:833][143]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.11.39:834][143]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.11.39:834][143]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.11.39:834][143]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.11.39:834][143]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.11.39:836][143]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.11.39:836][143]LogWorldPartition: Display: WorldPartition initialize took 2.098 ms (total: 1.28 sec)
+[2025.03.21-10.11.39:836][143]LogPlayLevel: PIE: World Init took: (0.003137s)
+[2025.03.21-10.11.39:846][143]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.11.39:847][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.11.39:847][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.11.39:847][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.11.39:847][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.11.39:847][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.11.39:848][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.11.39:902][143]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.11.39:902][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.11.39:902][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.11.39:902][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.11.39:902][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.03.21-10.11.39:902][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.03.21-10.11.39:904][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.03.21-10.11.39:904][143]LogInit: FAudioDevice initialized with ID 21.
+[2025.03.21-10.11.39:904][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.03.21-10.11.39:904][143]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.11.39:904][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.21-10.11.39:907][143]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.11.39:911][143]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.11.39
+[2025.03.21-10.11.39:912][143]LogWorld: Bringing up level for play took: 0.005317
+[2025.03.21-10.11.39:913][143]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.03.21-10.11.39:926][143]PIE: Server logged in
+[2025.03.21-10.11.39:927][143]PIE: Play in editor total start time 0.119 seconds.
+[2025.03.21-10.11.52:156][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.11.52:156][542]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.11.52:156][542]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.11.52:157][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.11.52:157][542]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.11.52:157][542]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.11.52:157][542]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.11.52:157][542]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.11.52:162][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.11.52:167][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.11.52:178][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.11.52:179][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.21-10.11.52:179][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.21-10.11.52:180][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.21-10.11.52:187][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.03.21-10.11.52:239][543]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.03.21-10.11.59:089][ 45]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.11.59:099][ 45]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.11.59:099][ 45]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.11.59:103][ 45]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.592 ms (total: 71.302 ms)
+[2025.03.21-10.11.59:104][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.11.59:104][ 45]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.11.59:110][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005599s)
+[2025.03.21-10.11.59:110][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005632s)
+[2025.03.21-10.11.59:122][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.03.21-10.11.59:124][ 45]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.11.59:125][ 45]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.11.59:125][ 45]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.11.59:125][ 45]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.11.59:125][ 45]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.11.59:127][ 45]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.11.59:127][ 45]LogWorldPartition: Display: WorldPartition initialize took 2.137 ms (total: 1.28 sec)
+[2025.03.21-10.11.59:127][ 45]LogPlayLevel: PIE: World Init took: (0.003123s)
+[2025.03.21-10.11.59:139][ 45]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.21-10.11.59:139][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.11.59:140][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.11.59:140][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.11.59:140][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.11.59:140][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.11.59:140][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.11.59:140][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.11.59:140][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.11.59:140][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.11.59:140][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.11.59:140][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.11.59:141][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.11.59:195][ 45]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.11.59:195][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.11.59:195][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.11.59:195][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.11.59:196][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.21-10.11.59:196][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.03.21-10.11.59:197][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.21-10.11.59:197][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.21-10.11.59:197][ 45]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.21-10.11.59:197][ 45]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.11.59:197][ 45]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.21-10.11.59:199][ 45]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.11.59:204][ 45]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.11.59
+[2025.03.21-10.11.59:204][ 45]LogWorld: Bringing up level for play took: 0.005355
+[2025.03.21-10.11.59:206][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.03.21-10.11.59:218][ 45]PIE: Server logged in
+[2025.03.21-10.11.59:219][ 45]PIE: Play in editor total start time 0.122 seconds.
+[2025.03.21-10.12.30:435][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.12.30:435][615]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.12.30:435][615]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.12.30:436][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.12.30:436][615]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.12.30:436][615]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.12.30:436][615]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.12.30:436][615]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.12.30:443][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.12.30:446][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.12.30:458][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.21-10.12.30:458][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.21-10.12.30:458][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.21-10.12.30:459][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.21-10.12.30:463][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.12.30:466][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.21-10.12.30:563][616]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.03.21-10.15.34:708][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.15.34:719][764]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.15.34:719][764]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.15.34:722][764]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.518 ms (total: 74.821 ms)
+[2025.03.21-10.15.34:723][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.15.34:723][764]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.15.34:728][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005243s)
+[2025.03.21-10.15.34:728][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005274s)
+[2025.03.21-10.15.34:740][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.21-10.15.34:741][764]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.15.34:742][764]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.15.34:742][764]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.15.34:742][764]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.15.34:742][764]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.15.34:744][764]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.15.34:744][764]LogWorldPartition: Display: WorldPartition initialize took 2.074 ms (total: 1.28 sec)
+[2025.03.21-10.15.34:744][764]LogPlayLevel: PIE: World Init took: (0.003241s)
+[2025.03.21-10.15.34:757][764]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.15.34:757][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.15.34:757][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.15.34:757][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.15.34:757][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.15.34:757][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.15.34:759][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.15.34:815][764]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.15.34:815][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.15.34:816][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.15.34:816][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.15.34:817][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.21-10.15.34:817][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.03.21-10.15.34:818][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.21-10.15.34:818][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.21-10.15.34:818][764]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.21-10.15.34:818][764]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.15.34:818][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.21-10.15.34:820][764]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.15.34:826][764]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.15.34
+[2025.03.21-10.15.34:826][764]LogWorld: Bringing up level for play took: 0.006249
+[2025.03.21-10.15.34:828][764]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.03.21-10.15.34:841][764]PIE: Server logged in
+[2025.03.21-10.15.34:842][764]PIE: Play in editor total start time 0.125 seconds.
+[2025.03.21-10.15.43:075][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.15.43:075][692]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.15.43:075][692]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.15.43:076][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.15.43:076][692]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.15.43:076][692]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.15.43:076][692]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.15.43:076][692]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.15.43:083][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.15.43:087][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.15.43:097][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.15.43:098][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.21-10.15.43:098][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.21-10.15.43:099][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.21-10.15.43:106][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.21-10.15.43:203][693]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.03.21-10.15.46:385][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.15.46:395][958]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.15.46:395][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.15.46:400][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.481 ms (total: 79.302 ms)
+[2025.03.21-10.15.46:400][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.15.46:402][958]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.15.46:407][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005484s)
+[2025.03.21-10.15.46:407][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005513s)
+[2025.03.21-10.15.46:417][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.21-10.15.46:419][958]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.15.46:420][958]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.15.46:420][958]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.15.46:420][958]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.15.46:420][958]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.15.46:422][958]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.15.46:422][958]LogWorldPartition: Display: WorldPartition initialize took 2.069 ms (total: 1.29 sec)
+[2025.03.21-10.15.46:422][958]LogPlayLevel: PIE: World Init took: (0.003019s)
+[2025.03.21-10.15.46:434][958]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.15.46:434][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.15.46:434][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.15.46:434][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.15.46:434][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.15.46:434][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.15.46:435][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.15.46:489][958]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.15.46:489][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.15.46:489][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.15.46:489][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.15.46:490][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.03.21-10.15.46:490][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.03.21-10.15.46:491][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.03.21-10.15.46:491][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.03.21-10.15.46:491][958]LogInit: FAudioDevice initialized with ID 24.
+[2025.03.21-10.15.46:491][958]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.15.46:491][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.21-10.15.46:493][958]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.15.46:498][958]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.15.46
+[2025.03.21-10.15.46:499][958]LogWorld: Bringing up level for play took: 0.005523
+[2025.03.21-10.15.46:501][958]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.03.21-10.15.46:513][958]PIE: Server logged in
+[2025.03.21-10.15.46:514][958]PIE: Play in editor total start time 0.121 seconds.
+[2025.03.21-10.15.58:795][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.15.58:796][347]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.15.58:796][347]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.15.58:796][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.15.58:797][347]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.15.58:797][347]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.15.58:797][347]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.15.58:797][347]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.15.58:803][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.15.58:807][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.15.58:817][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.15.58:818][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.21-10.15.58:818][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.21-10.15.58:819][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.21-10.15.58:827][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.21-10.15.58:928][348]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.03.21-10.16.35:576][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Key.BP_Key
+[2025.03.21-10.22.18:990][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.21-10.22.18:994][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/5/4H/YXWMHAVMO1Z2VHL22X6F63_Auto4
+[2025.03.21-10.22.18:995][127]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/YXWMHAVMO1Z2VHL22X6F63_Auto4CA1910124E9F1B920B878994552C2E56.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/5/4H/YXWMHAVMO1Z2VHL22X6F63_Auto4.uasset'
+[2025.03.21-10.22.18:996][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2025.03.21-10.22.18:996][127]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2025.03.21-10.25.46:356][597]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.25.46:367][597]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.25.46:367][597]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.25.46:370][597]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.303 ms (total: 82.606 ms)
+[2025.03.21-10.25.46:372][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.25.46:393][597]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.25.46:398][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005606s)
+[2025.03.21-10.25.46:398][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005647s)
+[2025.03.21-10.25.46:411][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.21-10.25.46:412][597]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.25.46:413][597]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.25.46:413][597]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.25.46:413][597]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.25.46:413][597]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.25.46:415][597]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.25.46:415][597]LogWorldPartition: Display: WorldPartition initialize took 2.193 ms (total: 1.29 sec)
+[2025.03.21-10.25.46:415][597]LogPlayLevel: PIE: World Init took: (0.003516s)
+[2025.03.21-10.25.46:428][597]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.25.46:428][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.25.46:428][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.25.46:428][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.25.46:428][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.25.46:428][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.25.46:429][597]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.25.46:485][597]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.25.46:486][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.25.46:486][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.25.46:486][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.25.46:487][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.03.21-10.25.46:487][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.03.21-10.25.46:488][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.03.21-10.25.46:488][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.03.21-10.25.46:488][597]LogInit: FAudioDevice initialized with ID 25.
+[2025.03.21-10.25.46:488][597]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.25.46:488][597]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.03.21-10.25.46:490][597]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.25.46:496][597]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.25.46
+[2025.03.21-10.25.46:497][597]LogWorld: Bringing up level for play took: 0.006109
+[2025.03.21-10.25.46:498][597]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.03.21-10.25.46:511][597]PIE: Server logged in
+[2025.03.21-10.25.46:512][597]PIE: Play in editor total start time 0.147 seconds.
+[2025.03.21-10.26.29:514][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.26.29:514][436]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.26.29:514][436]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.26.29:515][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.26.29:515][436]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.26.29:515][436]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.26.29:515][436]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.26.29:515][436]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.26.29:524][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.26.29:527][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.26.29:539][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.26.29:539][436]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.03.21-10.26.29:539][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.03.21-10.26.29:541][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.03.21-10.26.29:548][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.21-10.26.29:603][437]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.03.21-10.28.33:348][641]LogDerivedDataCache: C:/Users/2310715.UCREATIVE/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.21-10.30.10:181][807]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.30.10:191][807]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.30.10:191][807]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.30.10:195][807]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.250 ms (total: 85.856 ms)
+[2025.03.21-10.30.10:196][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.30.10:218][807]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.30.10:224][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005750s)
+[2025.03.21-10.30.10:224][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005788s)
+[2025.03.21-10.30.10:235][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.21-10.30.10:238][807]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.30.10:239][807]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.30.10:239][807]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.30.10:239][807]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.30.10:239][807]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.30.10:241][807]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.30.10:241][807]LogWorldPartition: Display: WorldPartition initialize took 2.367 ms (total: 1.29 sec)
+[2025.03.21-10.30.10:241][807]LogPlayLevel: PIE: World Init took: (0.003638s)
+[2025.03.21-10.30.10:252][807]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.30.10:253][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.30.10:253][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.30.10:253][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.30.10:253][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.30.10:253][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.30.10:254][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.30.10:308][807]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.30.10:308][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.30.10:308][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.30.10:308][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.30.10:309][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.03.21-10.30.10:309][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.03.21-10.30.10:310][807]LogInit: FAudioDevice initialized with ID 26.
+[2025.03.21-10.30.10:310][807]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.30.10:310][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.03.21-10.30.10:310][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.03.21-10.30.10:310][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.03.21-10.30.10:313][807]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.30.10:318][807]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.30.10
+[2025.03.21-10.30.10:318][807]LogWorld: Bringing up level for play took: 0.005887
+[2025.03.21-10.30.10:320][807]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.03.21-10.30.10:332][807]PIE: Server logged in
+[2025.03.21-10.30.10:333][807]PIE: Play in editor total start time 0.144 seconds.
+[2025.03.21-10.30.12:483][ 59]LogChaos: Warning: Degenerate triangle 3290: (0.650574 0.881849 1.471817) (0.447955 0.904975 1.466836) (0.429781 0.871793 1.471817)
+[2025.03.21-10.30.12:483][ 59]LogChaos: Warning: Degenerate triangle 3290: (0.650574 0.881849 1.471817) (0.447955 0.904975 1.466836) (0.429781 0.871793 1.471817)
+[2025.03.21-10.30.12:492][ 60]LogChaos: Warning: Degenerate triangle 3290: (0.650574 0.881849 1.471817) (0.447955 0.904975 1.466836) (0.429781 0.871793 1.471817)
+[2025.03.21-10.30.12:492][ 60]LogChaos: Warning: Degenerate triangle 3290: (0.650574 0.881849 1.471817) (0.447955 0.904975 1.466836) (0.429781 0.871793 1.471817)
+[2025.03.21-10.30.12:500][ 61]LogChaos: Warning: Degenerate triangle 3291: (0.447955 0.904975 1.466836) (0.650574 0.881849 1.471817) (0.676307 0.912429 1.466555)
+[2025.03.21-10.30.12:500][ 61]LogChaos: Warning: Degenerate triangle 3291: (0.447955 0.904975 1.466836) (0.650574 0.881849 1.471817) (0.676307 0.912429 1.466555)
+[2025.03.21-10.30.12:500][ 61]LogChaos: Warning: Degenerate triangle 3290: (0.650574 0.881849 1.471817) (0.447955 0.904975 1.466836) (0.429781 0.871793 1.471817)
+[2025.03.21-10.30.12:508][ 62]LogChaos: Warning: Degenerate triangle 3291: (0.447955 0.904975 1.466836) (0.650574 0.881849 1.471817) (0.676307 0.912429 1.466555)
+[2025.03.21-10.30.12:508][ 62]LogChaos: Warning: Degenerate triangle 3291: (0.447955 0.904975 1.466836) (0.650574 0.881849 1.471817) (0.676307 0.912429 1.466555)
+[2025.03.21-10.30.12:508][ 62]LogChaos: Warning: Degenerate triangle 3290: (0.650574 0.881849 1.471817) (0.447955 0.904975 1.466836) (0.429781 0.871793 1.471817)
+[2025.03.21-10.30.12:516][ 63]LogChaos: Warning: Degenerate triangle 3299: (0.464890 0.935896 1.452233) (0.676307 0.912429 1.466555) (0.700287 0.940924 1.451129)
+[2025.03.21-10.30.12:516][ 63]LogChaos: Warning: Degenerate triangle 3299: (0.464890 0.935896 1.452233) (0.676307 0.912429 1.466555) (0.700287 0.940924 1.451129)
+[2025.03.21-10.30.12:516][ 63]LogChaos: Warning: Degenerate triangle 3293: (0.676307 0.912429 1.466555) (0.464890 0.935896 1.452233) (0.447955 0.904975 1.466836)
+[2025.03.21-10.30.12:524][ 64]LogChaos: Warning: Degenerate triangle 3299: (0.464890 0.935896 1.452233) (0.676307 0.912429 1.466555) (0.700287 0.940924 1.451129)
+[2025.03.21-10.30.12:524][ 64]LogChaos: Warning: Degenerate triangle 3299: (0.464890 0.935896 1.452233) (0.676307 0.912429 1.466555) (0.700287 0.940924 1.451129)
+[2025.03.21-10.30.12:524][ 64]LogChaos: Warning: Degenerate triangle 3293: (0.676307 0.912429 1.466555) (0.464890 0.935896 1.452233) (0.447955 0.904975 1.466836)
+[2025.03.21-10.30.12:533][ 65]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:533][ 65]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:533][ 65]LogChaos: Warning: Degenerate triangle 3299: (0.464890 0.935896 1.452233) (0.676307 0.912429 1.466555) (0.700287 0.940924 1.451129)
+[2025.03.21-10.30.12:541][ 66]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:541][ 66]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:541][ 66]LogChaos: Warning: Degenerate triangle 3299: (0.464890 0.935896 1.452233) (0.676307 0.912429 1.466555) (0.700287 0.940924 1.451129)
+[2025.03.21-10.30.12:550][ 67]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:550][ 67]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:550][ 67]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:558][ 68]LogChaos: Warning: Degenerate triangle 3297: (0.479433 0.962449 1.429003) (0.700287 0.940924 1.451129) (0.720879 0.965394 1.426589)
+[2025.03.21-10.30.12:558][ 68]LogChaos: Warning: Degenerate triangle 3297: (0.479433 0.962449 1.429003) (0.700287 0.940924 1.451129) (0.720879 0.965394 1.426589)
+[2025.03.21-10.30.12:558][ 68]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:566][ 69]LogChaos: Warning: Degenerate triangle 3297: (0.479433 0.962449 1.429003) (0.700287 0.940924 1.451129) (0.720879 0.965394 1.426589)
+[2025.03.21-10.30.12:566][ 69]LogChaos: Warning: Degenerate triangle 3297: (0.479433 0.962449 1.429003) (0.700287 0.940924 1.451129) (0.720879 0.965394 1.426589)
+[2025.03.21-10.30.12:566][ 69]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:575][ 70]LogChaos: Warning: Degenerate triangle 3297: (0.479433 0.962449 1.429003) (0.700287 0.940924 1.451129) (0.720879 0.965394 1.426589)
+[2025.03.21-10.30.12:575][ 70]LogChaos: Warning: Degenerate triangle 3297: (0.479433 0.962449 1.429003) (0.700287 0.940924 1.451129) (0.720879 0.965394 1.426589)
+[2025.03.21-10.30.12:575][ 70]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:583][ 71]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:583][ 71]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:583][ 71]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:591][ 72]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:591][ 72]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:591][ 72]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:600][ 73]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:600][ 73]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:600][ 73]LogChaos: Warning: Degenerate triangle 3298: (0.700287 0.940924 1.451129) (0.479433 0.962449 1.429003) (0.464890 0.935896 1.452233)
+[2025.03.21-10.30.12:608][ 74]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:608][ 74]LogChaos: Warning: Degenerate triangle 3294: (0.720879 0.965394 1.426589) (0.490592 0.982823 1.398728) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:608][ 74]LogChaos: Warning: Degenerate triangle 3097: (0.239328 0.960445 1.430847) (0.464890 0.935896 1.452233) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:616][ 75]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:616][ 75]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:616][ 75]LogChaos: Warning: Degenerate triangle 3097: (0.239328 0.960445 1.430847) (0.464890 0.935896 1.452233) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:624][ 76]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:624][ 76]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:624][ 76]LogChaos: Warning: Degenerate triangle 3097: (0.239328 0.960445 1.430847) (0.464890 0.935896 1.452233) (0.479433 0.962449 1.429003)
+[2025.03.21-10.30.12:633][ 77]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:633][ 77]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:633][ 77]LogChaos: Warning: Degenerate triangle 3099: (0.479433 0.962449 1.429003) (0.245118 0.981907 1.401877) (0.239328 0.960445 1.430847)
+[2025.03.21-10.30.12:641][ 78]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:641][ 78]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:641][ 78]LogChaos: Warning: Degenerate triangle 3099: (0.479433 0.962449 1.429003) (0.245118 0.981907 1.401877) (0.239328 0.960445 1.430847)
+[2025.03.21-10.30.12:650][ 79]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:650][ 79]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:650][ 79]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:658][ 80]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:658][ 80]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:658][ 80]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:665][ 81]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:665][ 81]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:665][ 81]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:675][ 82]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:675][ 82]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:675][ 82]LogChaos: Warning: Degenerate triangle 3103: (0.245118 0.981907 1.401877) (0.479433 0.962449 1.429003) (0.490592 0.982823 1.398728)
+[2025.03.21-10.30.12:683][ 83]LogChaos: Warning: Degenerate triangle 3104: (0.248758 0.995398 1.368141) (0.490592 0.982823 1.398728) (0.497607 0.995631 1.363473)
+[2025.03.21-10.30.12:683][ 83]LogChaos: Warning: Degenerate triangle 3104: (0.248758 0.995398 1.368141) (0.490592 0.982823 1.398728) (0.497607 0.995631 1.363473)
+[2025.03.21-10.30.12:683][ 83]LogChaos: Warning: Degenerate triangle 3104: (0.248758 0.995398 1.368141) (0.490592 0.982823 1.398728) (0.497607 0.995631 1.363473)
+[2025.03.21-10.30.12:934][113]LogChaos: Warning: Degenerate triangle 3104: (0.248758 0.995398 1.368141) (0.490592 0.982823 1.398728) (0.497607 0.995631 1.363473)
+[2025.03.21-10.30.12:934][113]LogChaos: Warning: Degenerate triangle 3104: (0.248758 0.995398 1.368141) (0.490592 0.982823 1.398728) (0.497607 0.995631 1.363473)
+[2025.03.21-10.30.12:934][113]LogChaos: Warning: Degenerate triangle 3102: (0.490592 0.982823 1.398728) (0.248758 0.995398 1.368141) (0.245118 0.981907 1.401877)
+[2025.03.21-10.30.12:941][114]LogChaos: Warning: Degenerate triangle 3099: (0.479433 0.962449 1.429003) (0.245118 0.981907 1.401877) (0.239328 0.960445 1.430847)
+[2025.03.21-10.30.12:941][114]LogChaos: Warning: Degenerate triangle 3099: (0.479433 0.962449 1.429003) (0.245118 0.981907 1.401877) (0.239328 0.960445 1.430847)
+[2025.03.21-10.30.12:941][114]LogChaos: Warning: Degenerate triangle 3094: (0.464890 0.935896 1.452233) (0.239328 0.960445 1.430847) (0.231782 0.932475 1.453077)
+[2025.03.21-10.30.12:950][115]LogChaos: Warning: Degenerate triangle 3094: (0.464890 0.935896 1.452233) (0.239328 0.960445 1.430847) (0.231782 0.932475 1.453077)
+[2025.03.21-10.30.12:950][115]LogChaos: Warning: Degenerate triangle 3094: (0.464890 0.935896 1.452233) (0.239328 0.960445 1.430847) (0.231782 0.932475 1.453077)
+[2025.03.21-10.30.12:950][115]LogChaos: Warning: Degenerate triangle 3090: (0.447955 0.904975 1.466836) (0.231782 0.932475 1.453077) (0.222994 0.899903 1.467051)
+[2025.03.21-10.30.12:958][116]LogChaos: Warning: Degenerate triangle 3089: (0.222994 0.899903 1.467051) (0.429781 0.871793 1.471817) (0.447955 0.904975 1.466836)
+[2025.03.21-10.30.12:958][116]LogChaos: Warning: Degenerate triangle 3089: (0.222994 0.899903 1.467051) (0.429781 0.871793 1.471817) (0.447955 0.904975 1.466836)
+[2025.03.21-10.30.12:958][116]LogChaos: Warning: Degenerate triangle 3088: (0.429781 0.871793 1.471817) (0.222994 0.899903 1.467051) (0.213564 0.864949 1.471817)
+[2025.03.21-10.30.12:966][117]LogChaos: Warning: Degenerate triangle 3088: (0.429781 0.871793 1.471817) (0.222994 0.899903 1.467051) (0.213564 0.864949 1.471817)
+[2025.03.21-10.30.12:966][117]LogChaos: Warning: Degenerate triangle 3088: (0.429781 0.871793 1.471817) (0.222994 0.899903 1.467051) (0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:083][131]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:083][131]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:091][132]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:091][132]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:091][132]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:099][133]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:099][133]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:099][133]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:108][134]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:108][134]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:108][134]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:116][135]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:116][135]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:116][135]LogChaos: Warning: Degenerate triangle 2085: (-0.148547 0.623964 1.471817) (-0.215241 0.519638 1.471817) (-0.109729 0.551645 1.471817)
+[2025.03.21-10.30.13:125][136]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:125][136]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:125][136]LogChaos: Warning: Degenerate triangle 2086: (-0.203305 0.490821 1.477103) (-0.109729 0.551645 1.471817) (-0.215241 0.519638 1.471817)
+[2025.03.21-10.30.13:133][137]LogChaos: Warning: Degenerate triangle 1965: (-0.295153 0.441727 1.477103) (-0.192717 0.465259 1.492362) (-0.203305 0.490821 1.477103)
+[2025.03.21-10.30.13:133][137]LogChaos: Warning: Degenerate triangle 1965: (-0.295153 0.441727 1.477103) (-0.192717 0.465259 1.492362) (-0.203305 0.490821 1.477103)
+[2025.03.21-10.30.13:133][137]LogChaos: Warning: Degenerate triangle 1983: (-0.103644 0.521052 1.477103) (-0.192717 0.465259 1.492362) (-0.098246 0.493916 1.492362)
+[2025.03.21-10.30.13:141][138]LogChaos: Warning: Degenerate triangle 1962: (-0.279781 0.418721 1.492362) (-0.184667 0.445825 1.515887) (-0.192717 0.465259 1.492362)
+[2025.03.21-10.30.13:141][138]LogChaos: Warning: Degenerate triangle 1962: (-0.279781 0.418721 1.492362) (-0.184667 0.445825 1.515887) (-0.192717 0.465259 1.492362)
+[2025.03.21-10.30.13:141][138]LogChaos: Warning: Degenerate triangle 1983: (-0.103644 0.521052 1.477103) (-0.192717 0.465259 1.492362) (-0.098246 0.493916 1.492362)
+[2025.03.21-10.30.13:150][139]LogChaos: Warning: Degenerate triangle 3101: (-0.000000 0.995315 1.369915) (0.245118 0.981907 1.401877) (0.248758 0.995398 1.368141)
+[2025.03.21-10.30.13:150][139]LogChaos: Warning: Degenerate triangle 3101: (-0.000000 0.995315 1.369915) (0.245118 0.981907 1.401877) (0.248758 0.995398 1.368141)
+[2025.03.21-10.30.13:150][139]LogChaos: Warning: Degenerate triangle 3100: (0.245118 0.981907 1.401877) (-0.000000 0.995315 1.369915) (-0.000000 0.981580 1.403074)
+[2025.03.21-10.30.13:150][139]LogChaos: Warning: Degenerate triangle 1962: (-0.279781 0.418721 1.492362) (-0.184667 0.445825 1.515887) (-0.192717 0.465259 1.492362)
+[2025.03.21-10.30.13:150][139]LogChaos: Warning: Degenerate triangle 1962: (-0.279781 0.418721 1.492362) (-0.184667 0.445825 1.515887) (-0.192717 0.465259 1.492362)
+[2025.03.21-10.30.13:150][139]LogChaos: Warning: Degenerate triangle 1984: (-0.098246 0.493916 1.492362) (-0.192717 0.465259 1.492362) (-0.184667 0.445825 1.515887)
+[2025.03.21-10.30.13:157][140]LogChaos: Warning: Degenerate triangle 3096: (0.239328 0.960445 1.430847) (-0.000000 0.981580 1.403074) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:158][140]LogChaos: Warning: Degenerate triangle 3096: (0.239328 0.960445 1.430847) (-0.000000 0.981580 1.403074) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:158][140]LogChaos: Warning: Degenerate triangle 3096: (0.239328 0.960445 1.430847) (-0.000000 0.981580 1.403074) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:158][140]LogChaos: Warning: Degenerate triangle 1958: (-0.184667 0.445825 1.515887) (-0.279781 0.418721 1.492362) (-0.268095 0.401232 1.515887)
+[2025.03.21-10.30.13:158][140]LogChaos: Warning: Degenerate triangle 1958: (-0.184667 0.445825 1.515887) (-0.279781 0.418721 1.492362) (-0.268095 0.401232 1.515887)
+[2025.03.21-10.30.13:158][140]LogChaos: Warning: Degenerate triangle 1962: (-0.279781 0.418721 1.492362) (-0.184667 0.445825 1.515887) (-0.192717 0.465259 1.492362)
+[2025.03.21-10.30.13:165][141]LogChaos: Warning: Degenerate triangle 2065: (-0.000000 0.959731 1.431548) (-0.239328 0.960445 1.430847) (-0.231782 0.932475 1.453077)
+[2025.03.21-10.30.13:165][141]LogChaos: Warning: Degenerate triangle 2065: (-0.000000 0.959731 1.431548) (-0.239328 0.960445 1.430847) (-0.231782 0.932475 1.453077)
+[2025.03.21-10.30.13:165][141]LogChaos: Warning: Degenerate triangle 3093: (0.231782 0.932475 1.453077) (-0.000000 0.959731 1.431548) (-0.000000 0.931257 1.453398)
+[2025.03.21-10.30.13:165][141]LogChaos: Warning: Degenerate triangle 1958: (-0.184667 0.445825 1.515887) (-0.279781 0.418721 1.492362) (-0.268095 0.401232 1.515887)
+[2025.03.21-10.30.13:175][142]LogChaos: Warning: Degenerate triangle 2064: (-0.231782 0.932475 1.453077) (-0.000000 0.931257 1.453398) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:175][142]LogChaos: Warning: Degenerate triangle 2064: (-0.231782 0.932475 1.453077) (-0.000000 0.931257 1.453398) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:175][142]LogChaos: Warning: Degenerate triangle 2064: (-0.231782 0.932475 1.453077) (-0.000000 0.931257 1.453398) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:175][142]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:183][143]LogChaos: Warning: Degenerate triangle 2064: (-0.231782 0.932475 1.453077) (-0.000000 0.931257 1.453398) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:183][143]LogChaos: Warning: Degenerate triangle 2064: (-0.231782 0.932475 1.453077) (-0.000000 0.931257 1.453398) (-0.000000 0.959731 1.431548)
+[2025.03.21-10.30.13:183][143]LogChaos: Warning: Degenerate triangle 2062: (-0.222994 0.899903 1.467051) (-0.000000 0.898098 1.467132) (-0.000000 0.931257 1.453398)
+[2025.03.21-10.30.13:183][143]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:183][143]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:183][143]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:191][144]LogChaos: Warning: Degenerate triangle 2061: (-0.000000 0.931257 1.453398) (-0.231782 0.932475 1.453077) (-0.222994 0.899903 1.467051)
+[2025.03.21-10.30.13:191][144]LogChaos: Warning: Degenerate triangle 2061: (-0.000000 0.931257 1.453398) (-0.231782 0.932475 1.453077) (-0.222994 0.899903 1.467051)
+[2025.03.21-10.30.13:191][144]LogChaos: Warning: Degenerate triangle 2062: (-0.222994 0.899903 1.467051) (-0.000000 0.898098 1.467132) (-0.000000 0.931257 1.453398)
+[2025.03.21-10.30.13:191][144]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:191][144]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:191][144]LogChaos: Warning: Degenerate triangle 1969: (-0.184667 0.445825 1.515887) (-0.235952 0.353127 1.608017) (-0.162527 0.392374 1.608017)
+[2025.03.21-10.30.13:199][145]LogChaos: Warning: Degenerate triangle 2061: (-0.000000 0.931257 1.453398) (-0.231782 0.932475 1.453077) (-0.222994 0.899903 1.467051)
+[2025.03.21-10.30.13:199][145]LogChaos: Warning: Degenerate triangle 2061: (-0.000000 0.931257 1.453398) (-0.231782 0.932475 1.453077) (-0.222994 0.899903 1.467051)
+[2025.03.21-10.30.13:199][145]LogChaos: Warning: Degenerate triangle 2060: (-0.000000 0.898098 1.467132) (-0.222994 0.899903 1.467051) (-0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:199][145]LogChaos: Warning: Degenerate triangle 1999: (-0.243471 0.364381 1.858456) (-0.167706 0.404878 1.858456) (-0.243471 0.364381 1.819044)
+[2025.03.21-10.30.13:199][145]LogChaos: Warning: Degenerate triangle 1999: (-0.243471 0.364381 1.858456) (-0.167706 0.404878 1.858456) (-0.243471 0.364381 1.819044)
+[2025.03.21-10.30.13:199][145]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:207][146]LogChaos: Warning: Degenerate triangle 2056: (-0.222994 0.899903 1.467051) (-0.429781 0.871793 1.471817) (-0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:207][146]LogChaos: Warning: Degenerate triangle 2056: (-0.222994 0.899903 1.467051) (-0.429781 0.871793 1.471817) (-0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:207][146]LogChaos: Warning: Degenerate triangle 2060: (-0.000000 0.898098 1.467132) (-0.222994 0.899903 1.467051) (-0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:207][146]LogChaos: Warning: Degenerate triangle 1998: (-0.242751 0.363303 1.863271) (-0.167210 0.403680 1.863271) (-0.167706 0.404878 1.858456)
+[2025.03.21-10.30.13:207][146]LogChaos: Warning: Degenerate triangle 1998: (-0.242751 0.363303 1.863271) (-0.167210 0.403680 1.863271) (-0.167706 0.404878 1.858456)
+[2025.03.21-10.30.13:207][146]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:215][147]LogChaos: Warning: Degenerate triangle 2056: (-0.222994 0.899903 1.467051) (-0.429781 0.871793 1.471817) (-0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:215][147]LogChaos: Warning: Degenerate triangle 2056: (-0.222994 0.899903 1.467051) (-0.429781 0.871793 1.471817) (-0.213564 0.864949 1.471817)
+[2025.03.21-10.30.13:215][147]LogChaos: Warning: Degenerate triangle 1996: (-0.242751 0.363303 1.863271) (-0.165854 0.400408 1.866796) (-0.167210 0.403680 1.863271)
+[2025.03.21-10.30.13:215][147]LogChaos: Warning: Degenerate triangle 1996: (-0.242751 0.363303 1.863271) (-0.165854 0.400408 1.866796) (-0.167210 0.403680 1.863271)
+[2025.03.21-10.30.13:215][147]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:224][148]LogChaos: Warning: Degenerate triangle 2012: (-0.085496 0.429816 1.858456) (-0.167210 0.403680 1.863271) (-0.085243 0.428545 1.863271)
+[2025.03.21-10.30.13:224][148]LogChaos: Warning: Degenerate triangle 2012: (-0.085496 0.429816 1.858456) (-0.167210 0.403680 1.863271) (-0.085243 0.428545 1.863271)
+[2025.03.21-10.30.13:224][148]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:233][149]LogChaos: Warning: Degenerate triangle 2011: (-0.085243 0.428545 1.863271) (-0.167210 0.403680 1.863271) (-0.165854 0.400408 1.866796)
+[2025.03.21-10.30.13:233][149]LogChaos: Warning: Degenerate triangle 2011: (-0.085243 0.428545 1.863271) (-0.167210 0.403680 1.863271) (-0.165854 0.400408 1.866796)
+[2025.03.21-10.30.13:233][149]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:242][150]LogChaos: Warning: Degenerate triangle 2013: (-0.167210 0.403680 1.863271) (-0.085496 0.429816 1.858456) (-0.167706 0.404878 1.858456)
+[2025.03.21-10.30.13:242][150]LogChaos: Warning: Degenerate triangle 2013: (-0.167210 0.403680 1.863271) (-0.085496 0.429816 1.858456) (-0.167706 0.404878 1.858456)
+[2025.03.21-10.30.13:242][150]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:350][163]LogChaos: Warning: Degenerate triangle 1464: (-0.551645 0.109729 1.471817) (-0.519638 0.215241 1.471817) (-0.623963 0.148547 1.471817)
+[2025.03.21-10.30.13:350][163]LogChaos: Warning: Degenerate triangle 1464: (-0.551645 0.109729 1.471817) (-0.519638 0.215241 1.471817) (-0.623963 0.148547 1.471817)
+[2025.03.21-10.30.13:383][167]LogChaos: Warning: Degenerate triangle 2011: (-0.085243 0.428545 1.863271) (-0.167210 0.403680 1.863271) (-0.165854 0.400408 1.866796)
+[2025.03.21-10.30.13:383][167]LogChaos: Warning: Degenerate triangle 2011: (-0.085243 0.428545 1.863271) (-0.167210 0.403680 1.863271) (-0.165854 0.400408 1.866796)
+[2025.03.21-10.30.13:383][167]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:392][168]LogChaos: Warning: Degenerate triangle 2012: (-0.085496 0.429816 1.858456) (-0.167210 0.403680 1.863271) (-0.085243 0.428545 1.863271)
+[2025.03.21-10.30.13:392][168]LogChaos: Warning: Degenerate triangle 2012: (-0.085496 0.429816 1.858456) (-0.167210 0.403680 1.863271) (-0.085243 0.428545 1.863271)
+[2025.03.21-10.30.13:392][168]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:399][169]LogChaos: Warning: Degenerate triangle 1996: (-0.242751 0.363303 1.863271) (-0.165854 0.400408 1.866796) (-0.167210 0.403680 1.863271)
+[2025.03.21-10.30.13:399][169]LogChaos: Warning: Degenerate triangle 1996: (-0.242751 0.363303 1.863271) (-0.165854 0.400408 1.866796) (-0.167210 0.403680 1.863271)
+[2025.03.21-10.30.13:399][169]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:408][170]LogChaos: Warning: Degenerate triangle 1994: (-0.240783 0.360357 1.866796) (-0.164003 0.395937 1.868087) (-0.165854 0.400408 1.866796)
+[2025.03.21-10.30.13:408][170]LogChaos: Warning: Degenerate triangle 1994: (-0.240783 0.360357 1.866796) (-0.164003 0.395937 1.868087) (-0.165854 0.400408 1.866796)
+[2025.03.21-10.30.13:408][170]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:416][171]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:416][171]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:416][171]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:425][172]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:425][172]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:425][172]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:433][173]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:433][173]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:433][173]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:441][174]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:441][174]LogChaos: Warning: Degenerate triangle 2009: (-0.084552 0.425070 1.866796) (-0.165854 0.400408 1.866796) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:442][174]LogChaos: Warning: Degenerate triangle 1771: (-0.120985 0.292084 1.868087) (-0.083608 0.420324 1.868087) (-0.164003 0.395937 1.868087)
+[2025.03.21-10.30.13:450][175]LogChaos: Warning: Degenerate triangle 1848: (-0.069391 0.348853 2.003412) (-0.136116 0.328612 2.003412) (-0.134180 0.323938 2.015528)
+[2025.03.21-10.30.13:450][175]LogChaos: Warning: Degenerate triangle 1848: (-0.069391 0.348853 2.003412) (-0.136116 0.328612 2.003412) (-0.134180 0.323938 2.015528)
+[2025.03.21-10.30.13:450][175]LogChaos: Warning: Degenerate triangle 1855: (-0.130343 0.314675 2.024043) (-0.068404 0.343891 2.015528) (-0.134180 0.323938 2.015528)
+[2025.03.21-10.30.13:458][176]LogChaos: Warning: Degenerate triangle 1837: (-0.000000 0.340602 2.024043) (-0.068404 0.343891 2.015528) (-0.066448 0.334058 2.024043)
+[2025.03.21-10.30.13:458][176]LogChaos: Warning: Degenerate triangle 1837: (-0.000000 0.340602 2.024043) (-0.068404 0.343891 2.015528) (-0.066448 0.334058 2.024043)
+[2025.03.21-10.30.13:474][178]LogChaos: Warning: Degenerate triangle 826: (-0.862514 -0.862514 1.471817) (-0.881849 -0.650574 1.471817) (-0.912429 -0.676307 1.466555)
+[2025.03.21-10.30.13:474][178]LogChaos: Warning: Degenerate triangle 826: (-0.862514 -0.862514 1.471817) (-0.881849 -0.650574 1.471817) (-0.912429 -0.676307 1.466555)
+[2025.03.21-10.30.13:483][179]LogChaos: Warning: Degenerate triangle 834: (-0.898016 -0.861108 1.467194) (-0.912429 -0.676307 1.466555) (-0.940924 -0.700287 1.451129)
+[2025.03.21-10.30.13:483][179]LogChaos: Warning: Degenerate triangle 834: (-0.898016 -0.861108 1.467194) (-0.912429 -0.676307 1.466555) (-0.940924 -0.700287 1.451129)
+[2025.03.21-10.30.13:483][179]LogChaos: Warning: Degenerate triangle 837: (-0.898016 -0.861108 1.467194) (-0.940924 -0.700287 1.451129) (-0.931131 -0.860224 1.453492)
+[2025.03.21-10.30.17:851][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.30.17:851][699]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.30.17:851][699]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.30.17:852][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.30.17:852][699]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.30.17:852][699]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.30.17:852][699]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.30.17:852][699]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.30.17:859][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.30.17:862][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.30.17:874][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.30.17:874][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.03.21-10.30.17:875][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.03.21-10.30.17:876][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.03.21-10.30.17:883][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.21-10.30.17:931][700]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.03.21-10.30.32:050][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.21-10.30.38:239][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.30.38:249][734]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.30.38:249][734]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.30.38:253][734]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.157 ms (total: 89.013 ms)
+[2025.03.21-10.30.38:254][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.30.38:254][734]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.30.38:259][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005281s)
+[2025.03.21-10.30.38:259][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005311s)
+[2025.03.21-10.30.38:278][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.21-10.30.38:279][734]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.30.38:280][734]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.30.38:280][734]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.30.38:280][734]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.30.38:280][734]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.30.38:282][734]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.30.38:282][734]LogWorldPartition: Display: WorldPartition initialize took 2.111 ms (total: 1.29 sec)
+[2025.03.21-10.30.38:282][734]LogPlayLevel: PIE: World Init took: (0.003104s)
+[2025.03.21-10.30.38:294][734]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.30.38:294][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.30.38:294][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.30.38:294][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.30.38:294][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.30.38:294][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.30.38:296][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.30.38:348][734]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.30.38:349][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.30.38:349][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.30.38:349][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.30.38:350][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.03.21-10.30.38:350][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.03.21-10.30.38:351][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.03.21-10.30.38:351][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.03.21-10.30.38:351][734]LogInit: FAudioDevice initialized with ID 27.
+[2025.03.21-10.30.38:351][734]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.30.38:351][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.03.21-10.30.38:354][734]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.30.38:359][734]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.30.38
+[2025.03.21-10.30.38:359][734]LogWorld: Bringing up level for play took: 0.005738
+[2025.03.21-10.30.38:361][734]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.03.21-10.30.38:373][734]PIE: Server logged in
+[2025.03.21-10.30.38:373][734]PIE: Play in editor total start time 0.126 seconds.
+[2025.03.21-10.30.40:253][954]LogChaos: Warning: Degenerate triangle 1929: (-0.447955 0.904975 1.466836) (-0.676307 0.912429 1.466555) (-0.650574 0.881849 1.471817)
+[2025.03.21-10.30.40:253][954]LogChaos: Warning: Degenerate triangle 1929: (-0.447955 0.904975 1.466836) (-0.676307 0.912429 1.466555) (-0.650574 0.881849 1.471817)
+[2025.03.21-10.30.40:253][954]LogChaos: Warning: Degenerate triangle 1929: (-0.447955 0.904975 1.466836) (-0.676307 0.912429 1.466555) (-0.650574 0.881849 1.471817)
+[2025.03.21-10.30.40:261][955]LogChaos: Warning: Degenerate triangle 1933: (-0.464890 0.935896 1.452233) (-0.700287 0.940924 1.451129) (-0.676307 0.912429 1.466555)
+[2025.03.21-10.30.40:262][955]LogChaos: Warning: Degenerate triangle 1933: (-0.464890 0.935896 1.452233) (-0.700287 0.940924 1.451129) (-0.676307 0.912429 1.466555)
+[2025.03.21-10.30.40:262][955]LogChaos: Warning: Degenerate triangle 1931: (-0.464890 0.935896 1.452233) (-0.676307 0.912429 1.466555) (-0.447955 0.904975 1.466836)
+[2025.03.21-10.30.40:269][956]LogChaos: Warning: Degenerate triangle 1932: (-0.479433 0.962449 1.429003) (-0.700287 0.940924 1.451129) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:269][956]LogChaos: Warning: Degenerate triangle 1932: (-0.479433 0.962449 1.429003) (-0.700287 0.940924 1.451129) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:269][956]LogChaos: Warning: Degenerate triangle 1932: (-0.479433 0.962449 1.429003) (-0.700287 0.940924 1.451129) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:278][957]LogChaos: Warning: Degenerate triangle 1937: (-0.720879 0.965394 1.426589) (-0.479433 0.962449 1.429003) (-0.490592 0.982823 1.398728)
+[2025.03.21-10.30.40:278][957]LogChaos: Warning: Degenerate triangle 1937: (-0.720879 0.965394 1.426589) (-0.479433 0.962449 1.429003) (-0.490592 0.982823 1.398728)
+[2025.03.21-10.30.40:278][957]LogChaos: Warning: Degenerate triangle 1936: (-0.479433 0.962449 1.429003) (-0.720879 0.965394 1.426589) (-0.700287 0.940924 1.451129)
+[2025.03.21-10.30.40:287][958]LogChaos: Warning: Degenerate triangle 1940: (-0.490592 0.982823 1.398728) (-0.736679 0.984171 1.394608) (-0.720879 0.965394 1.426589)
+[2025.03.21-10.30.40:287][958]LogChaos: Warning: Degenerate triangle 1940: (-0.490592 0.982823 1.398728) (-0.736679 0.984171 1.394608) (-0.720879 0.965394 1.426589)
+[2025.03.21-10.30.40:287][958]LogChaos: Warning: Degenerate triangle 1937: (-0.720879 0.965394 1.426589) (-0.479433 0.962449 1.429003) (-0.490592 0.982823 1.398728)
+[2025.03.21-10.30.40:294][959]LogChaos: Warning: Degenerate triangle 1940: (-0.490592 0.982823 1.398728) (-0.736679 0.984171 1.394608) (-0.720879 0.965394 1.426589)
+[2025.03.21-10.30.40:294][959]LogChaos: Warning: Degenerate triangle 1940: (-0.490592 0.982823 1.398728) (-0.736679 0.984171 1.394608) (-0.720879 0.965394 1.426589)
+[2025.03.21-10.30.40:294][959]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:303][960]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:303][960]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:303][960]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:311][961]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:311][961]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:311][961]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:319][962]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:319][962]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:320][962]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:328][963]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:328][963]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:328][963]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:336][964]LogChaos: Warning: Degenerate triangle 2070: (-0.479433 0.962449 1.429003) (-0.239328 0.960445 1.430847) (-0.245119 0.981907 1.401877)
+[2025.03.21-10.30.40:336][964]LogChaos: Warning: Degenerate triangle 2070: (-0.479433 0.962449 1.429003) (-0.239328 0.960445 1.430847) (-0.245119 0.981907 1.401877)
+[2025.03.21-10.30.40:336][964]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:344][965]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:344][965]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:344][965]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:354][966]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:354][966]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:354][966]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:362][967]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:362][967]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:362][967]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:370][968]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:370][968]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:370][968]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:379][969]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:379][969]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:379][969]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:386][970]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:386][970]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:386][970]LogChaos: Warning: Degenerate triangle 2066: (-0.239328 0.960445 1.430847) (-0.464890 0.935896 1.452233) (-0.231782 0.932475 1.453077)
+[2025.03.21-10.30.40:395][971]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:395][971]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:395][971]LogChaos: Warning: Degenerate triangle 2066: (-0.239328 0.960445 1.430847) (-0.464890 0.935896 1.452233) (-0.231782 0.932475 1.453077)
+[2025.03.21-10.30.40:403][972]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:403][972]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:403][972]LogChaos: Warning: Degenerate triangle 2066: (-0.239328 0.960445 1.430847) (-0.464890 0.935896 1.452233) (-0.231782 0.932475 1.453077)
+[2025.03.21-10.30.40:412][973]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:412][973]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:412][973]LogChaos: Warning: Degenerate triangle 2068: (-0.239328 0.960445 1.430847) (-0.479433 0.962449 1.429003) (-0.464890 0.935896 1.452233)
+[2025.03.21-10.30.40:420][974]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:420][974]LogChaos: Warning: Degenerate triangle 2072: (-0.245119 0.981907 1.401877) (-0.490592 0.982823 1.398728) (-0.479433 0.962449 1.429003)
+[2025.03.21-10.30.40:420][974]LogChaos: Warning: Degenerate triangle 2070: (-0.479433 0.962449 1.429003) (-0.239328 0.960445 1.430847) (-0.245119 0.981907 1.401877)
+[2025.03.21-10.30.40:429][975]LogChaos: Warning: Degenerate triangle 2075: (-0.248758 0.995398 1.368141) (-0.497607 0.995631 1.363473) (-0.490592 0.982823 1.398728)
+[2025.03.21-10.30.40:429][975]LogChaos: Warning: Degenerate triangle 2075: (-0.248758 0.995398 1.368141) (-0.497607 0.995631 1.363473) (-0.490592 0.982823 1.398728)
+[2025.03.21-10.30.40:429][975]LogChaos: Warning: Degenerate triangle 2075: (-0.248758 0.995398 1.368141) (-0.497607 0.995631 1.363473) (-0.490592 0.982823 1.398728)
+[2025.03.21-10.30.40:445][977]LogChaos: Warning: Degenerate triangle 1877: (-0.984171 0.736679 1.394608) (-0.995632 0.497607 1.363473) (-0.982824 0.490592 1.398728)
+[2025.03.21-10.30.40:445][977]LogChaos: Warning: Degenerate triangle 1877: (-0.984171 0.736679 1.394608) (-0.995632 0.497607 1.363473) (-0.982824 0.490592 1.398728)
+[2025.03.21-10.30.40:445][977]LogChaos: Warning: Degenerate triangle 1869: (-0.965394 0.720879 1.426589) (-0.982824 0.490592 1.398728) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:454][978]LogChaos: Warning: Degenerate triangle 1869: (-0.965394 0.720879 1.426589) (-0.982824 0.490592 1.398728) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:454][978]LogChaos: Warning: Degenerate triangle 1869: (-0.965394 0.720879 1.426589) (-0.982824 0.490592 1.398728) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:454][978]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:461][979]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:461][979]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:461][979]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:470][980]LogChaos: Warning: Degenerate triangle 1864: (-0.935896 0.464890 1.452233) (-0.912429 0.676307 1.466555) (-0.940924 0.700287 1.451129)
+[2025.03.21-10.30.40:470][980]LogChaos: Warning: Degenerate triangle 1864: (-0.935896 0.464890 1.452233) (-0.912429 0.676307 1.466555) (-0.940924 0.700287 1.451129)
+[2025.03.21-10.30.40:470][980]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:478][981]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:478][981]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:478][981]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:487][982]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:487][982]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:487][982]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:495][983]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:495][983]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:495][983]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:503][984]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:504][984]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:712][  9]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:712][  9]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:720][ 10]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:720][ 10]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:720][ 10]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:728][ 11]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:728][ 11]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:728][ 11]LogChaos: Warning: Degenerate triangle 1863: (-0.881849 0.650574 1.471817) (-0.904975 0.447955 1.466836) (-0.871793 0.429781 1.471817)
+[2025.03.21-10.30.40:737][ 12]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:737][ 12]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:737][ 12]LogChaos: Warning: Degenerate triangle 1862: (-0.904975 0.447955 1.466836) (-0.881849 0.650574 1.471817) (-0.912429 0.676307 1.466555)
+[2025.03.21-10.30.40:745][ 13]LogChaos: Warning: Degenerate triangle 1864: (-0.935896 0.464890 1.452233) (-0.912429 0.676307 1.466555) (-0.940924 0.700287 1.451129)
+[2025.03.21-10.30.40:745][ 13]LogChaos: Warning: Degenerate triangle 1864: (-0.935896 0.464890 1.452233) (-0.912429 0.676307 1.466555) (-0.940924 0.700287 1.451129)
+[2025.03.21-10.30.40:745][ 13]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:753][ 14]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:753][ 14]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:753][ 14]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:761][ 15]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:761][ 15]LogChaos: Warning: Degenerate triangle 1866: (-0.940924 0.700287 1.451129) (-0.962449 0.479433 1.429003) (-0.935896 0.464890 1.452233)
+[2025.03.21-10.30.40:761][ 15]LogChaos: Warning: Degenerate triangle 1865: (-0.912429 0.676307 1.466555) (-0.935896 0.464890 1.452233) (-0.904975 0.447955 1.466836)
+[2025.03.21-10.30.40:770][ 16]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:770][ 16]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:770][ 16]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:779][ 17]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:779][ 17]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:779][ 17]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:786][ 18]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:786][ 18]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:787][ 18]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:795][ 19]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:795][ 19]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:795][ 19]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:803][ 20]LogChaos: Warning: Degenerate triangle 1495: (-0.962449 0.479433 1.429003) (-0.981907 0.245118 1.401877) (-0.960445 0.239328 1.430847)
+[2025.03.21-10.30.40:803][ 20]LogChaos: Warning: Degenerate triangle 1495: (-0.962449 0.479433 1.429003) (-0.981907 0.245118 1.401877) (-0.960445 0.239328 1.430847)
+[2025.03.21-10.30.40:803][ 20]LogChaos: Warning: Degenerate triangle 1493: (-0.960445 0.239328 1.430847) (-0.935896 0.464890 1.452233) (-0.962449 0.479433 1.429003)
+[2025.03.21-10.30.40:812][ 21]LogChaos: Warning: Degenerate triangle 1496: (-0.981907 0.245118 1.401877) (-0.962449 0.479433 1.429003) (-0.982824 0.490592 1.398728)
+[2025.03.21-10.30.40:812][ 21]LogChaos: Warning: Degenerate triangle 1496: (-0.981907 0.245118 1.401877) (-0.962449 0.479433 1.429003) (-0.982824 0.490592 1.398728)
+[2025.03.21-10.30.40:812][ 21]LogChaos: Warning: Degenerate triangle 1495: (-0.962449 0.479433 1.429003) (-0.981907 0.245118 1.401877) (-0.960445 0.239328 1.430847)
+[2025.03.21-10.30.40:820][ 22]LogChaos: Warning: Degenerate triangle 1496: (-0.981907 0.245118 1.401877) (-0.962449 0.479433 1.429003) (-0.982824 0.490592 1.398728)
+[2025.03.21-10.30.40:820][ 22]LogChaos: Warning: Degenerate triangle 1496: (-0.981907 0.245118 1.401877) (-0.962449 0.479433 1.429003) (-0.982824 0.490592 1.398728)
+[2025.03.21-10.30.40:820][ 22]LogChaos: Warning: Degenerate triangle 1495: (-0.962449 0.479433 1.429003) (-0.981907 0.245118 1.401877) (-0.960445 0.239328 1.430847)
+[2025.03.21-10.30.41:660][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.30.41:660][119]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.30.41:660][119]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.30.41:661][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.30.41:661][119]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.30.41:661][119]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.30.41:662][119]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.30.41:662][119]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.30.41:668][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.30.41:672][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.30.41:683][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.21-10.30.41:683][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.03.21-10.30.41:683][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.03.21-10.30.41:685][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.03.21-10.30.41:689][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.30.41:692][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.21-10.30.41:740][120]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.03.21-10.31.33:822][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.21-10.31.35:282][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-10.31.35:294][135]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-10.31.35:294][135]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.21-10.31.35:297][135]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.139 ms (total: 92.152 ms)
+[2025.03.21-10.31.35:298][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-10.31.35:338][135]LogPlayLevel: Creating play world package: /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.31.35:343][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005302s)
+[2025.03.21-10.31.35:343][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005341s)
+[2025.03.21-10.31.35:354][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.21-10.31.35:355][135]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.21-10.31.35:356][135]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-10.31.35:356][135]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-10.31.35:356][135]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-10.31.35:356][135]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-10.31.35:358][135]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new container.
+[2025.03.21-10.31.35:358][135]LogWorldPartition: Display: WorldPartition initialize took 2.063 ms (total: 1.30 sec)
+[2025.03.21-10.31.35:358][135]LogPlayLevel: PIE: World Init took: (0.003235s)
+[2025.03.21-10.31.35:371][135]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-10.31.35:371][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-10.31.35:371][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-10.31.35:371][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-10.31.35:371][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-10.31.35:371][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-10.31.35:372][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-10.31.35:426][135]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-10.31.35:426][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-10.31.35:426][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-10.31.35:426][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-10.31.35:427][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.03.21-10.31.35:427][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.03.21-10.31.35:428][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.03.21-10.31.35:428][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.03.21-10.31.35:428][135]LogInit: FAudioDevice initialized with ID 28.
+[2025.03.21-10.31.35:428][135]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2025.03.21-10.31.35:428][135]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.03.21-10.31.35:430][135]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.21-10.31.35:435][135]LogWorld: Bringing World /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.21-10.31.35
+[2025.03.21-10.31.35:435][135]LogWorld: Bringing up level for play took: 0.005684
+[2025.03.21-10.31.35:438][135]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.03.21-10.31.35:449][135]PIE: Server logged in
+[2025.03.21-10.31.35:450][135]PIE: Play in editor total start time 0.159 seconds.
+[2025.03.21-10.31.40:770][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.31.40:770][759]LogWorld: BeginTearingDown for /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.21-10.31.40:770][759]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.31.40:771][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.31.40:771][759]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Dynamic/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.31.40:771][759]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.21-10.31.40:772][759]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.21-10.31.40:772][759]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.21-10.31.40:779][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-10.31.40:783][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.31.40:793][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.21-10.31.40:794][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.03.21-10.31.40:794][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.03.21-10.31.40:795][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.03.21-10.31.40:799][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-10.31.40:802][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.21-10.31.40:855][760]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.03.21-10.33.18:844][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.21-10.33.18:849][233]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B_Auto5
+[2025.03.21-10.33.18:849][233]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/K7IF26M5QRYQ4HGRK8RH0B_Auto5EAFA907B476ABAAB26A304A4F909508D.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B_Auto5.uasset'
+[2025.03.21-10.33.18:850][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap' took 0.022
+[2025.03.21-10.33.18:850][233]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2025.03.21-10.33.18:850][233]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale] ([2] browsable assets)...
+[2025.03.21-10.33.18:880][233]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale]
+[2025.03.21-10.33.18:880][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale]
+[2025.03.21-10.33.18:896][233]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale_Auto5
+[2025.03.21-10.33.18:896][233]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Scale_Auto5C113C7EF4ED00E0C681BB186113EDE2F.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/Autosaves/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale_Auto5.uasset'
+[2025.03.21-10.33.18:896][233]LogFileHelpers: Auto-saving content packages took 0.047
+[2025.03.21-10.38.46:603][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.21-10.38.46:607][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.38.46:662][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/5/4H/YXWMHAVMO1Z2VHL22X6F63
+[2025.03.21-10.38.46:663][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/YXWMHAVMO1Z2VHL22X6F63E3569DCB43B335244ACB9CBFE043EA60.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/5/4H/YXWMHAVMO1Z2VHL22X6F63.uasset'
+[2025.03.21-10.38.46:666][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B
+[2025.03.21-10.38.46:666][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/K7IF26M5QRYQ4HGRK8RH0BA88FF850474F6D616F9BEEB45D1684D1.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/__ExternalActors__/Dynamic/ThirdPerson/Maps/ThirdPersonMap/8/UB/K7IF26M5QRYQ4HGRK8RH0B.uasset'
+[2025.03.21-10.38.46:667][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors] ([2] browsable assets)...
+[2025.03.21-10.38.46:667][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors]
+[2025.03.21-10.38.46:670][412]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors
+[2025.03.21-10.38.46:670][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_ScissorsBD36B8EA45E15E7A8E15E6BC2E2D598C.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Scissors.uasset'
+[2025.03.21-10.38.46:671][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Razor] ([2] browsable assets)...
+[2025.03.21-10.38.46:671][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Razor]
+[2025.03.21-10.38.46:675][412]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Razor
+[2025.03.21-10.38.46:675][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Razor62F6311C4A169393CDB1A7A66566DA5B.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Razor.uasset'
+[2025.03.21-10.38.46:675][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Broom] ([2] browsable assets)...
+[2025.03.21-10.38.46:675][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Broom]
+[2025.03.21-10.38.46:680][412]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Broom
+[2025.03.21-10.38.46:681][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_BroomC20049064EC7D84D47528BBF182736B4.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Broom.uasset'
+[2025.03.21-10.38.46:681][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Comb] ([2] browsable assets)...
+[2025.03.21-10.38.46:681][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Comb]
+[2025.03.21-10.38.46:685][412]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Comb
+[2025.03.21-10.38.46:685][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Comb1587589E43B3BE35CD697A98F0252B76.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Comb.uasset'
+[2025.03.21-10.38.46:686][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale] ([2] browsable assets)...
+[2025.03.21-10.38.46:686][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Scale]
+[2025.03.21-10.38.46:696][412]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale
+[2025.03.21-10.38.46:696][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Scale87D54F9242DE8A64121565B83A894AA5.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Scale.uasset'
+[2025.03.21-10.38.46:697][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Jar] ([2] browsable assets)...
+[2025.03.21-10.38.46:697][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/ThirdPerson/Blueprints/BP_Jar]
+[2025.03.21-10.38.46:700][412]LogSavePackage: Moving output files for package: /Game/Dynamic/ThirdPerson/Blueprints/BP_Jar
+[2025.03.21-10.38.46:700][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/BP_Jar41FC93824D248766C06BDD8FA280B058.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Dynamic/ThirdPerson/Blueprints/BP_Jar.uasset'
+[2025.03.21-10.38.46:701][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_] ([1] browsable assets)...
+[2025.03.21-10.38.46:701][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_]
+[2025.03.21-10.38.46:706][412]LogSavePackage: Moving output files for package: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_
+[2025.03.21-10.38.46:706][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__3_42DC4A9D4CB263A3E1117199E8710A6F.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Static/LevelPrototyping/Meshes/SM_BarberScales__3_.uasset'
+[2025.03.21-10.38.46:709][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar] ([1] browsable assets)...
+[2025.03.21-10.38.46:709][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar]
+[2025.03.21-10.38.46:712][412]LogSavePackage: Moving output files for package: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar
+[2025.03.21-10.38.46:712][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberSca6883F3CE4CAE3783C2CA3F8AD60A50D8.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar.uasset'
+[2025.03.21-10.38.46:713][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1] ([1] browsable assets)...
+[2025.03.21-10.38.46:713][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1]
+[2025.03.21-10.38.46:716][412]LogSavePackage: Moving output files for package: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1
+[2025.03.21-10.38.46:716][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberScaF906F19F46BFFAE54C2CC2A72A4CDA7C.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1.uasset'
+[2025.03.21-10.38.46:717][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2] ([1] browsable assets)...
+[2025.03.21-10.38.46:717][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2]
+[2025.03.21-10.38.46:720][412]LogSavePackage: Moving output files for package: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2
+[2025.03.21-10.38.46:720][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberScaB6E705074915418B74EC89BC8C36C163.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2.uasset'
+[2025.03.21-10.38.46:721][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base] ([1] browsable assets)...
+[2025.03.21-10.38.46:721][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base]
+[2025.03.21-10.38.46:723][412]LogSavePackage: Moving output files for package: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base
+[2025.03.21-10.38.46:723][412]LogSavePackage: Moving '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Saved/SM_BarberScales__4__SM_BarberSca959C558E4350783CF141D59FB43B1522.tmp' to '../../../../../../Users/2310715.UCREATIVE/Documents/GitHub/ClientBrief/ClientBrief/Content/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base.uasset'
+[2025.03.21-10.38.46:731][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.561 ms (total: 200.330 ms)
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Starting to validate 13 assets
+[2025.03.21-10.38.46:776][412]LogContentValidation: Enabled validators:
+[2025.03.21-10.38.46:776][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.38.46:776][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.38.46:776][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors.BP_Scissors
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Scissors Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Razor.BP_Razor
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Razor Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Broom.BP_Broom
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Broom Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Comb.BP_Comb
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Comb Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale.BP_Scale
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Scale Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Dynamic/ThirdPerson/Blueprints/BP_Jar.BP_Jar
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Dynamic/ThirdPerson/Blueprints/BP_Jar Validating asset
+[2025.03.21-10.38.46:776][412]LogContentValidation: Display: Validating asset /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_.SM_BarberScales__3_
+[2025.03.21-10.38.46:776][412]AssetCheck: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__3_ Validating asset
+[2025.03.21-10.38.46:777][412]LogContentValidation: Display: Validating asset /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar.SM_BarberScales__4__SM_BarberScales_HorizontalBar
+[2025.03.21-10.38.46:777][412]AssetCheck: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_HorizontalBar Validating asset
+[2025.03.21-10.38.46:777][412]LogContentValidation: Display: Validating asset /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1.SM_BarberScales__4__SM_BarberScales_Plate1
+[2025.03.21-10.38.46:777][412]AssetCheck: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate1 Validating asset
+[2025.03.21-10.38.46:777][412]LogContentValidation: Display: Validating asset /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2.SM_BarberScales__4__SM_BarberScales_Plate2
+[2025.03.21-10.38.46:777][412]AssetCheck: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Plate2 Validating asset
+[2025.03.21-10.38.46:777][412]LogContentValidation: Display: Validating asset /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base.SM_BarberScales__4__SM_BarberScales_Base
+[2025.03.21-10.38.46:777][412]AssetCheck: /Game/Static/LevelPrototyping/Meshes/SM_BarberScales__4__SM_BarberScales_Base Validating asset
