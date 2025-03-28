@@ -8,15 +8,16 @@
 ## Research (Suggested Word Count 1,100) 
 
 ### Methodology  
-- Identify relevant sources for the project, including articles, documentation, talks, and games.  
-- Detail how these sources have informed your practical work and influenced your approach.
+To create an effective game that meets the criteria given, I will use Little Nightmares 2 as my main game source. I will collate aesthetic sources with my team to ensure an accurate atmosphere and art that aligns with the original aesthetic of the game. I will do reseach into the mechanics used within the game and will recreate them using Unreal's blueprints system. I aim to create simple carry, drop and store mechanisms using help from online tutorials needed.  
 
 ### Game Sources  
-When researching Litle Nightmares 2, it became apparent that its horror-fueled tension relied on foul/disturbing atmospheres and spaces rather than sudden jumpascares and typical horror tactics. Therefore we decided to create a space tat alligned with this idea. 
+When researching Litle Nightmares 2, it became apparent that its horror-fueled tension relied on foul/disturbing atmospheres and spaces rather than sudden jumpscares and typical horror tactics. Therefore we decided to create a space that alligned with this idea. We've utalised grotesque and scary assets (e.g blood splatter, body parts, sharp utensils) and intense music/sound to mimic the atmosphere created in Little Nightmares 2. During research, I found the keybindings used within the game and decided to keep these similar to my game also. Through game testing it became apparent that the 'E' key was the most intuitive choice for 'interact', therefore I have kept this key as interact and also added the 'Q' key which was also used within the keybindings. 
 
 ### Academic Sources  
 - Research academic papers, books, or articles that provide theoretical guidance for your project. Include a brief summary of each source.  
 - Describe how the academic research applies to your project and shapes your design and development decisions.
+
+- https://www.jstor.org/stable/45295643?searchText=game+space&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dgame%2Bspace%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A432c2371e6ebf4e43dbf1319d66bf6e5&seq=2
 
 ### Documentation Sources  
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
