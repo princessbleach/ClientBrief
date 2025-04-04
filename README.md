@@ -82,12 +82,13 @@ On positive reflection, the game suitably fits the brief given and aligns well w
 
 ### Negative Analysis  
 
-On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. 
+On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. 
 - Identify the areas of the project that did not go as planned or could have been improved.  
 - Discuss challenges you faced, whether technical, creative, or time-related, and evaluate their impact on the final product.  
 - Reflect on any mistakes or missteps and what you learned from them.
 
 ### Next Time
+If I were to undertake a similar project I would ensure in pre-production that team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. 
 - Outline what you would do differently if you were to undertake a similar project again.  
 - Suggest improvements to your workflow, research methods, or implementation process based on your reflections.  
 - Consider any new tools, techniques, or approaches you would explore in future projects to achieve better results.
