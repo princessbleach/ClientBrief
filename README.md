@@ -1,19 +1,22 @@
 # Development Commentary Template
 
+How does the design of video game space affect the actions and experiences of players? Consider how different game spaces have been categorised in the literature and concepts of space and place discussed in the lecture.  
+
 ## Project Outline (Suggested Word Count 500) 
-- Provide a concise description of the project, including its core concept and purpose.  
-- Outline the initial goals or objectives you aim to achieve.  
-- Identify any anticipated challenges or potential issues that may arise during development.
+We aim to create a horror puzzle-platformer inspired by Supermassive Games' Little Nightmares 2. The game will feature one enviroment/room in which the player will have to solve puzzles to escape. It's concept will be closely tied to Little Nightmares 2 themes and will draw from a scrapped idea of 'The Barber'. The player will play as an imprisoned child who tries to escape their captivity in the barber shop. In order to prioritise quality and functionality, I will keep the mechanisms and puzzles simple. There will be four puzzles and two types of mechanisms (store and carry). The main anticipated challenges I may face are: ensuring a bug-free, smoothly-working game on an engine I am unfamiliar with; and working efficiently and productively with a team I have not met before. To help aid my development despite these challenges I will begin work early to ensure I have enough time to tackle any problems that arise and give my team the sufficient time needed for the to produce work also. 
 
 ## Research (Suggested Word Count 1,100) 
 
 ### Methodology  
-To create an effective game that meets the criteria given, I will use Little Nightmares 2 as my main game source. I will collate aesthetic sources with my team to ensure an accurate atmosphere and art that aligns with the original aesthetic of the game. I will do reseach into the mechanics used within the game and will recreate them using Unreal's blueprints system. I aim to create simple carry, drop and store mechanisms using help from online tutorials needed.  
+To create an effective game that meets the criteria given, I will use Little Nightmares 2 as my main game source. I will collate aesthetic sources with my team to ensure an accurate atmosphere and art that aligns with the original aesthetic of the game; we will use a Figma board to display this research. I will do reseach into the mechanics used within the game and will recreate them using Unreal's blueprints system. I aim to create simple carry, drop and store mechanisms using help from online tutorials when needed. I also aim to create the sound and, as we do not have an animator, I aim to complete animations also. To organise our tasks and effectively monitor our progress will we use Trello. 
 
 ### Game Sources  
 When researching Litle Nightmares 2, it became apparent that its horror-fueled tension relied on foul/disturbing atmospheres and spaces rather than sudden jumpscares and typical horror tactics. Therefore we decided to create a space that alligned with this idea. We've utalised grotesque and scary assets (e.g blood splatter, body parts, sharp utensils) and intense music/sound to mimic the atmosphere created in Little Nightmares 2. During research, I found the keybindings used within the game and decided to keep these similar to my game also. Through game testing it became apparent that the 'E' key was the most intuitive choice for 'interact', therefore I have kept this key as interact and also added the 'Q' key which was also used within the keybindings. 
 
 ### Academic Sources  
+Through research into game space it became apparent that keeping some areas hidden until the player explores them can increase suspense, therefore we have separated the room with curtains to keep areas unknown until entered. This allows the player to have autonomy over their progress within the space and allows them to feel a sense of self exploration as they uncover more of the enviroment. 
+
+
 - Research academic papers, books, or articles that provide theoretical guidance for your project. Include a brief summary of each source.  
 - Describe how the academic research applies to your project and shapes your design and development decisions.
 
