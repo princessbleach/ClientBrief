@@ -12,18 +12,15 @@ To create an effective game that meets the criteria given, I will use Little Nig
 
 ### Game Sources  
 When researching Litle Nightmares 2, it became apparent that its horror-fueled tension relied on foul/disturbing atmospheres and spaces rather than sudden jumpscares and typical horror tactics. Therefore we decided to create a space that alligned with this idea. We've utalised grotesque and scary assets (e.g blood splatter, body parts, sharp utensils) and intense music/sound to mimic the atmosphere created in Little Nightmares 2. During research, I found the keybindings used within the game and decided to keep these similar to my game also. Through game testing it became apparent that the 'E' key was the most intuitive choice for 'interact', therefore I have kept this key as interact and also added the 'Q' key which was also used within the keybindings. Little Nightmares 2 uses a platformer-type camera system that has a 'handheld' movement. I have attempted to recreate this within the game.
-*What Remains of Edith Finch* (
+*What Remains of Edith Finch* 
 
 ### Academic Sources  
 Through research into game space it became apparent that keeping some areas hidden until the player explores them can increase suspense (Murray, 2020), therefore we have separated the room with curtains to keep areas unknown until entered. This allows the player to have autonomy over their progress within the space and allows them to feel a sense of self exploration as they uncover more of the enviroment. Video game space can also be used for 'enviromental storytelling'. This is a way for the player to unravel more of the narrative through the enviroment. (Fernandez-Vara, 2011). We have created an enviroment which slowly reveals more of the narrative context as the player plays. 
 When tackling team work and organisation, the book *Agile Game Development* by Clinton Keith (Keith, 2021) addresses the importance of not prioritising personal goals above team goals. When creating our game we ensured that we worked with synergy and communicated often to achieve a shared outcome. 
 
 
-https://www.jstor.org/stable/45295643?searchText=game+space&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dgame%2Bspace%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A432c2371e6ebf4e43dbf1319d66bf6e5&seq=2
-Citation: Fernandez-Vara, Clara. "Game Spaces Speak Volumes: Indexical Storytelling." 2011
-DiGRA International Conference: Think Design Play (January 2011).
-
 ### Documentation Sources  
+I used multiple relevant video tutorials to aid my programming of different mechanisms. 
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
@@ -35,6 +32,9 @@ DiGRA International Conference: Think Design Play (January 2011).
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
 
 ### New Approaches  
+When developing the carry mechanism, I followed an online tutorial for guidance. It provided substancial help for creating the mechanism however I found that the objects carried would frequently collide with the player and cause movement issues. Additionally, the suggested skeletal socket for the objects to bind to was not optimal and resulted in many issues; the object would also change size and shape when carried. Therefore I created a new carry socket and turned physics and collisions off for the object. This then solved the collisions issue and I realised that the initial socket had been scaled up and this was affecting the size of the object. I also encountered a problem when developing the 'store' mechanism: I was unable to use the same carry socket for both mechanisms 
+
+
 - Detail any innovative or new approaches you explored during the project.  
 - Explain why these approaches were chosen and how they differ from standard practices.  
 - Evaluate the success of these approaches, including any challenges faced and lessons learned.
@@ -76,25 +76,33 @@ We performed blind and guided user testing during our eighth week of production 
 - Identify any research gaps or areas where additional information could have improved your project outcomes.
 
 ### Positive Analysis 
-On positive reflection, the game suitably fits the brief given and aligns well with the themes and aesthetics from Little Nightmares 2. The game succesfully features similar mechanisms and movement and the animations chosen work well within the enviroment. I was able to tackle difficult issues, such as create my own solutions to fix unefficient blueprints found online. I was also able 
-- Reflect on the successful aspects of the project.  
-- Highlight specific elements that worked well, such as technical solutions, creative decisions, or user feedback.  
-- Provide evidence to support your analysis, such as test results, screenshots, or user comments.
+On positive reflection, the game suitably fits the brief given and aligns well with the themes and aesthetics from Little Nightmares 2. The game succesfully features similar mechanisms and movement and the animations chosen work well within the enviroment. I was able to tackle difficult issues, such as create my own solutions to fix unefficient blueprints found online. I was also able implement sounds and animations without an animator. The decision to keep the project simple was successful as it enabled us to achieve everything we wanted and left room for additional implementations.
 
 ### Negative Analysis  
-
-On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. 
-- Identify the areas of the project that did not go as planned or could have been improved.  
-- Discuss challenges you faced, whether technical, creative, or time-related, and evaluate their impact on the final product.  
-- Reflect on any mistakes or missteps and what you learned from them.
+On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. The game also lacks fun which may have been improved by implementing a timer system or an enemy AI. However with the time given 
 
 ### Next Time
-If I were to undertake a similar project I would ensure in pre-production that team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. 
-- Outline what you would do differently if you were to undertake a similar project again.  
-- Suggest improvements to your workflow, research methods, or implementation process based on your reflections.  
-- Consider any new tools, techniques, or approaches you would explore in future projects to achieve better results.
+If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utalised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die.
+
 
 ## Bibliography  
+
+**Academic Sources**
+
+**Videos**
+https://youtu.be/P-wbqMKFClk?si=XomIBOsRSP8s7Yd1
+https://youtu.be/kB1_qxNUi9Q?si=IwZCXieHzy26Qq7q
+https://youtu.be/m1sOZumo1M4?si=sGvccZp0fb57qRZb
+https://youtu.be/m1sOZumo1M4?si=mVFv7AdQTmtOBrBC
+https://youtu.be/qbgDaRo312k?si=M_C_cM5iYg3cR4od
+
+
+
+**Games**
+
+
+
+
 - Compile a complete list of all sources referenced throughout your project. This may include articles, journals, videos, games, software, documentation, or any other materials.  
 - Ensure all references are formatted according to the [university's citation method](https://mylibrary.uca.ac.uk/referencing).  
 - Organise your references in alphabetical order. Alternatively, you may separate them by type (e.g., academic sources, games, videos), but consistency is key.
