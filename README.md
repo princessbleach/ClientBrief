@@ -27,17 +27,14 @@ I used multiple relevant video tutorials to aid my programming of different mech
 ## Implementation (Suggested Word Count 1,100)  
 
 ### Process
+I began by replicating the platformer-type camera seen in Little Nightmares 2 and adjusting the controls to suit. 
 - Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
 - Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
 
 ### New Approaches  
-When developing the carry mechanism, I followed an online tutorial for guidance. It provided substancial help for creating the mechanism however I found that the objects carried would frequently collide with the player and cause movement issues. Additionally, the suggested skeletal socket for the objects to bind to was not optimal and resulted in many issues; the object would also change size and shape when carried. Therefore I created a new carry socket and turned physics and collisions off for the object. This then solved the collisions issue and I realised that the initial socket had been scaled up and this was affecting the size of the object. I also encountered a problem when developing the 'store' mechanism: I was unable to use the same carry socket for both mechanisms 
+When developing the carry mechanism, I followed an online tutorial for guidance. It provided substancial help for creating the mechanism however I found that the objects carried would frequently collide with the player and cause movement issues. Additionally, the suggested skeletal socket for the objects to bind to was not optimal and resulted in many issues; the object would also change size and shape when carried. Therefore I created a new carry socket and turned physics and collisions off for the object. This then solved the collisions issue and I realised that the initial socket had been scaled up and this was affecting the size of the object. I also encountered a problem when developing the 'store' mechanism: I was unable to use the same carry socket for both mechanisms and after discussing with my peers I decided to create a new socket on the player's back to store objects.
 
-
-- Detail any innovative or new approaches you explored during the project.  
-- Explain why these approaches were chosen and how they differ from standard practices.  
-- Evaluate the success of these approaches, including any challenges faced and lessons learned.
 
 ### Testing
 We performed blind and guided user testing during our eighth week of production where we would monitor and note any observations as the game was tested. We also provided a form for testers to complete post-testing to collate more in-depth, anonymous feedback. Positively, we found that 100% of testers found the game synonymous with the Little Nightmares 2 aesthetic and gameplay. We also found that 70% of testers understood and enjoyed the 'book' puzzle. However, testers were confused by the controls and struggled to understand them. We noticed most players intuitively used the 'E' key. Therefore, I added user interface widgets to indicate which controls to press and decided to place interactions on the 'E' key as this was the most intuitive. Game testing also highlighted various small bugs and issues that could arise during gamplay, therefore using breakpointing I was able to locate the issues within my code. Some testers noted that they struggled to understand where to progress through the game, however this was most likely due to the lack of assets within the game during the time of testing. Once the assets were inputted, I believe this problem is less apparent. 
@@ -82,12 +79,14 @@ On positive reflection, the game suitably fits the brief given and aligns well w
 On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. The game also lacks fun which may have been improved by implementing a timer system or an enemy AI. However with the time given 
 
 ### Next Time
-If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utalised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die.
+If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utalised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die. Additionally, I would increase the game testing as the feeback we gained was very valuable and record the sessions for more in depth analysis. 
 
 
 ## Bibliography  
 
 **Academic Sources**
+http://hdl.handle.net/1721.1/100274
+Murray, Soraya. “Horizons Already Here: Video Games and Landscape.” Art Journal, vol. 79, no. 2, 2020, pp. 42–49. JSTOR, http://www.jstor.org/stable/45295643. 
 
 **Videos**
 https://youtu.be/P-wbqMKFClk?si=XomIBOsRSP8s7Yd1
