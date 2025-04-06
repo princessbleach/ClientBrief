@@ -2,10 +2,10 @@
 
 How does the design of video game space affect the actions and experiences of players? Consider how different game spaces have been categorised in the literature and concepts of space and place discussed in the lecture.  
 
-## Project Outline (Suggested Word Count 500) 
+## Project Outline 
 We aim to create a horror puzzle-platformer inspired by Supermassive Games' Little Nightmares 2. The game will feature one enviroment/room in which the player will have to solve puzzles to escape. It's concept will be closely tied to Little Nightmares 2 themes and will draw from a scrapped idea of 'The Barber'. The player will play as an imprisoned child who tries to escape their captivity in the barber shop. In order to prioritise quality and functionality, I will keep the mechanisms and puzzles simple. There will be four puzzles and two types of mechanisms (store and carry). The main anticipated challenges I may face are: ensuring a bug-free, smoothly-working game on an engine I am unfamiliar with; and working efficiently and productively with a team I have not met before. To help aid my development despite these challenges I will begin work early to ensure I have enough time to tackle any problems that arise and give my team the sufficient time needed for the to produce work also. 
 
-## Research (Suggested Word Count 1,100) 
+## Research  
 
 ### Methodology  
 To create an effective game that meets the criteria given, I will use Little Nightmares 2 as my main game source. I will collate aesthetic sources with my team to ensure an accurate atmosphere and art that aligns with the original aesthetic of the game; we will use a Figma board to display this research. I will do reseach into the mechanics used within the game and will recreate them using Unreal's blueprints system. I aim to create simple carry, drop and store mechanisms using help from online tutorials when needed. I also aim to create the sound and, as we do not have an animator, I aim to complete animations also. To organise our tasks and effectively monitor our progress will we use Trello. 
@@ -25,12 +25,21 @@ I used multiple relevant video tutorials to aid my programming of different mech
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
 
-## Implementation (Suggested Word Count 1,100)  
+## Implementation 
 
 ### Process
 I began by replicating the platformer-type camera seen in Little Nightmares 2 and adjusting the controls to suit. I then decreased player speed and jump velocity to be more reflective of Little Nighmares 2. Next I implemented a crouch mechanism. My next priority was to program the mechanisms needed. Originally I had chosen to use a push-pull system, similar to the original game, however this presented technical difficulties and did not work optimally with the size and shape of the objects needed to be moved. Therefore, I created a carry and drop mechanism for the player to move objects. This works by attatching the object to the carry socket on the player's skeletal mesh when the player holds left click and when they release, it unbinds the object and places it infront of the player. I used the tag 'carryable' on all objects that could be carried to ensure only those objects could be picked up. I also used a boolean of IsCarrying to ensure the player could not carry two objects at once. I then realised I would need a type of storing system to store objects which needed to be held by the player at the same time they carried another. I created a similar system in which the object with the correct tag would be attatched to the store socket on the skeletal mesh using the E key.
 
-After these mechanisms, I began the 'book' puzzle in which the player must place each utensil in the correct position to unlock the drawer. To do this, I followed a tutorial in which I learnt to use correlating colour variables. Each object and placement area was given a hex code and if those codes matched, the correct variable would be true. Once every placement area had matched to an object the drawer would open and set a new location for the key and hammer also. I then began programming the climb and escape. Once storing the hammer and overlapping the escape area, the player can press Q to escape. Using timeline, the player's Z position changes over 4 seconds to simulate the climbing of the wall. I developed a similar program for the lock and key. 
+After these mechanisms, I began the 'book' puzzle in which the player must place each utensil in the correct position to unlock the drawer. To do this, I followed a tutorial in which I learnt to use correlating colour variables. Each object and placement area was given a hex code and if those codes matched, the correct variable would be true. Once every placement area had matched to an object the drawer would open and set a new location for the key and hammer also. I then began programming the climb and escape. Once storing the hammer and overlapping the escape area, the player can press Q to escape. Using timeline, the player's Z position changes over 4 seconds to simulate the climbing of the wall. I developed a similar program for the lock and key. The door swings open when the player is storing the key and presses E. I used timeline for this with a different graph shape to create a more accurate movement for the door. 
+
+After game testing, I implemented UI widgets to indicate which controls to press and highlight the interactables. The widgets appear when the player is near the object and dissapear when the overlap ends. However, I was unable to solve an issue in which the widget shows on the item as it is carried. I also implemented 'need key' and 'need hammer' widgets when the player attempts to interact without the hammer or key. This will help reduce confusion we observed in play testing surrounding the key and hammer's functions. 
+
+Post game testing, I inherited the scales puzzle from my designer and used timeline once again to change the rotation of the scales when the platform overlaps the jar. This puzzle is temperamental and, if given more time, I would've improved it by having the scales affected by all objects including the player.
+
+I then created an ambient score for the main level and implemented sound effects throughout.
+
+
+Throughout the process I was also imputting assets and materials as I recieved them.
 
 ### New Approaches  
 When developing the carry mechanism, I followed an online tutorial for guidance. It provided substancial help for creating the mechanism however I found that the objects carried would frequently collide with the player and cause movement issues. Additionally, the suggested skeletal socket for the objects to bind to was not optimal and resulted in many issues; the object would also change size and shape when carried. Therefore I created a new carry socket and turned physics and collisions off for the object. This then solved the collisions issue and I realised that the initial socket had been scaled up and this was affecting the size of the object. I also encountered a problem when developing the 'store' mechanism: I was unable to use the same carry socket for both mechanisms and after discussing with my peers I decided to create a new socket on the player's back to store objects. I then adjusted this mechanism slightly to regognise which object the player was storing so that when opening the door or escaping the room, those events would only occur if storing the correct object. 
@@ -49,12 +58,9 @@ Graph showing multiple opinions and confusion on controls.
 
 ### Technical Difficulties
 When beggining my project in Unreal, I encountered an issue with file management and organisation. I had duplicated each folder which lead to me and my designers saving work in different and unorganised places. I solved the issue by deleting copies with the least references. To prevent this issue in the future, I will organise my folders into static and dynamic before beggining my development process.
-- Identify any technical difficulties encountered during the implementation phase.  
-- Provide details on how these issues were diagnosed and resolved.  
-- If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
-- Reflect on what you would do differently in future projects to avoid similar issues.
 
-## Outcomes (Suggested Word Count 300) 
+
+## Outcomes
 
 ### Source Code/Project Files
 - Provide a link to your complete source code or project files.  
@@ -72,7 +78,7 @@ When beggining my project in Unreal, I encountered an issue with file management
 - The video should showcase key features, functionality, and any unique elements of your project.  
 - Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
 nn
-## Reflection (Suggested Word Count 500) 
+## Reflection 
 
 ### Research Effectiveness  
 - Assess the usefulness of the research conducted during the project.  
@@ -83,10 +89,10 @@ nn
 On positive reflection, the game suitably fits the brief given and aligns well with the themes and aesthetics from Little Nightmares 2. The game succesfully features similar mechanisms and movement and the animations chosen work well within the enviroment. I was able to tackle difficult issues, such as create my own solutions to fix unefficient blueprints found online. I was also able implement sounds and animations without an animator. The decision to keep the project simple was successful as it enabled us to achieve everything we wanted and left room for additional implementations.
 
 ### Negative Analysis  
-On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. The game also lacks fun which may have been improved by implementing a timer system or an enemy AI. However with the time given 
+On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. The scales puzzle works temperamentally and the widgets do not display perfectly. Due to recieving the player asset later than anicipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. The game also lacks fun which may have been improved by implementing a timer system or an enemy AI. However with the time given 
 
 ### Next Time
-If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utalised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die. Additionally, I would increase the game testing as the feeback we gained was very valuable and record the sessions for more in depth analysis. 
+If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utalised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die. Additionally, I would increase the game testing as the feeback we gained was very valuable and record the sessions for more in depth analysis. I would've also increased the SFX used to increase the realism of the game.
 
 
 ## Bibliography  
