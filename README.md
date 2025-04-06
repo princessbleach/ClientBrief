@@ -1,4 +1,4 @@
-# Development Commentary Template
+# Development Commentary 
 
 How does the design of video game space affect the actions and experiences of players? Consider how different game spaces have been categorised in the literature and concepts of space and place discussed in the lecture.  
 
@@ -24,10 +24,11 @@ I used multiple relevant video tutorials to aid my programming of different mech
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
+
 ## Implementation (Suggested Word Count 1,100)  
 
 ### Process
-I began by replicating the platformer-type camera seen in Little Nightmares 2 and adjusting the controls to suit. 
+I began by replicating the platformer-type camera seen in Little Nightmares 2 and adjusting the controls to suit. I then decreased player speed and jump velocity to be more reflective of Little Nighmares 2. 
 - Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
 - Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
@@ -39,10 +40,16 @@ When developing the carry mechanism, I followed an online tutorial for guidance.
 ### Testing
 We performed blind and guided user testing during our eighth week of production where we would monitor and note any observations as the game was tested. We also provided a form for testers to complete post-testing to collate more in-depth, anonymous feedback. Positively, we found that 100% of testers found the game synonymous with the Little Nightmares 2 aesthetic and gameplay. We also found that 70% of testers understood and enjoyed the 'book' puzzle. However, testers were confused by the controls and struggled to understand them. We noticed most players intuitively used the 'E' key. Therefore, I added user interface widgets to indicate which controls to press and decided to place interactions on the 'E' key as this was the most intuitive. Game testing also highlighted various small bugs and issues that could arise during gamplay, therefore using breakpointing I was able to locate the issues within my code. Some testers noted that they struggled to understand where to progress through the game, however this was most likely due to the lack of assets within the game during the time of testing. Once the assets were inputted, I believe this problem is less apparent. 
 
-*graph images here :)
+![AestheticData](https://github.com/user-attachments/assets/5846c8f7-4033-440e-bd70-3f8930f99112)
+Graph showing 100% positive feedback data.
+
+![ControlsData](https://github.com/user-attachments/assets/99abe8c8-05a2-43f7-94cc-11e7883345ce)
+Graph showing multiple opinions and confusion on controls. 
+
 
 
 ### Technical Difficulties
+When beggining my project in Unreal, I encountered an issue with file management and organisation. I had duplicated each folder which lead to me and my designers saving work in different and unorganised places. I solved the issue by deleting copies with the least references. To prevent this issue in the future, I will organise my folders into static and dynamic before beggining my development process.
 - Identify any technical difficulties encountered during the implementation phase.  
 - Provide details on how these issues were diagnosed and resolved.  
 - If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
@@ -55,6 +62,7 @@ We performed blind and guided user testing during our eighth week of production 
 - Ensure the link is publicly accessible or shared with the appropriate permissions.  
 - Include a brief description of the files provided, highlighting key components or any instructions required to run the project.
 
+
 ### Build Link
 - Share a link to a playable or executable build of your project.  
 - Ensure the build is accessible across relevant platforms and is publicly accessible.  
@@ -64,7 +72,7 @@ We performed blind and guided user testing during our eighth week of production 
 - Embed a video or provide a link to a recorded demonstration of your project in action.  
 - The video should showcase key features, functionality, and any unique elements of your project.  
 - Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
-
+nn
 ## Reflection (Suggested Word Count 500) 
 
 ### Research Effectiveness  
@@ -85,8 +93,8 @@ If I were to undertake a similar project I would ensure in pre-production that s
 ## Bibliography  
 
 **Academic Sources**
-http://hdl.handle.net/1721.1/100274
-Murray, Soraya. “Horizons Already Here: Video Games and Landscape.” Art Journal, vol. 79, no. 2, 2020, pp. 42–49. JSTOR, http://www.jstor.org/stable/45295643. 
+<br> http://hdl.handle.net/1721.1/100274
+<br> Murray, Soraya. “Horizons Already Here: Video Games and Landscape.” Art Journal, vol. 79, no. 2, 2020, pp. 42–49. JSTOR, http://www.jstor.org/stable/45295643. 
 
 **Videos**
 https://youtu.be/P-wbqMKFClk?si=XomIBOsRSP8s7Yd1
