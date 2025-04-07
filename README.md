@@ -94,9 +94,12 @@ If I were to undertake a similar project I would ensure in pre-production that s
 
 ## Bibliography  
 
-**Academic Sources**
-<br> http://hdl.handle.net/1721.1/100274
-<br> Murray, Soraya. “Horizons Already Here: Video Games and Landscape.” Art Journal, vol. 79, no. 2, 2020, pp. 42–49. JSTOR, http://www.jstor.org/stable/45295643. 
+
+
+Academic Sources**
+Fernandez-Vara, C. (2011) 'Game Spaces Speak Volumes: Indexical Storytelling' In: MIT web domain At: https://dspace.mit.edu/handle/1721.1/100274.
+Murray, S. (2020) 'Horizons Already Here: Video Games and Landscape' In: Art Journal 79 (2) pp.42–49.
+ 
 
 **Videos**
 https://youtu.be/P-wbqMKFClk?si=XomIBOsRSP8s7Yd1
