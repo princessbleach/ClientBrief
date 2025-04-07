@@ -1,9 +1,9 @@
 # Development Commentary 
 
-How does the design of video game space affect the actions and experiences of players? Consider how different game spaces have been categorised in the literature and concepts of space and place discussed in the lecture.  
+**Chosen question:** How does the design of video game space affect the actions and experiences of players? Consider how different game spaces have been categorised in the literature and concepts of space and place discussed in the lecture.  
 
 ## Project Outline 
-We aim to create a horror puzzle-platformer inspired by Supermassive Games' Little Nightmares 2. The game will feature one environment/room in which the player will have to solve puzzles to escape. It's concept will be closely tied to Little Nightmares 2 themes and will draw from a scrapped idea of 'The Barber'. The player will play as an imprisoned child who tries to escape their captivity in the barber shop. In order to prioritise quality and functionality, I will keep the mechanisms and puzzles simple. There will be four puzzles and two types of mechanisms (store and carry). The main anticipated challenges I may face are: ensuring a bug-free, smoothly-working game on an engine I am unfamiliar with; and working efficiently and productively with a team I have not met before. To help aid my development despite these challenges I will begin work early to ensure I have enough time to tackle any problems that arise and give my team the sufficient time needed for the to produce work also. 
+We aim to create a horror puzzle-platformer inspired by Supermassive Games' Little Nightmares 2 *(Little Nightmares 2, 2021)*. The game will feature one environment/room in which the player will have to solve puzzles to escape. It's concept will be closely tied to Little Nightmares 2 themes and will draw from a scrapped idea of 'The Barber'. The player will play as an imprisoned child who tries to escape their captivity in the barber shop. In order to prioritise quality and functionality, I will keep the mechanisms and puzzles simple. There will be four puzzles and two types of mechanisms (store and carry). The main anticipated challenges I may face are: ensuring a bug-free, smoothly-working game on an engine I am unfamiliar with; and working efficiently and productively with a team I have not met before. To help aid my development despite these challenges I will begin work early to ensure I have enough time to tackle any problems that arise and give my team the sufficient time needed for the to produce work also. 
 
 ## Research  
 
@@ -11,16 +11,16 @@ We aim to create a horror puzzle-platformer inspired by Supermassive Games' Litt
 To create an effective game that meets the criteria given, I will use Little Nightmares 2 as my main game source. I will collate aesthetic sources with my team to ensure an accurate atmosphere and art that aligns with the original aesthetic of the game; we will use a Figma board to display this research. I will do research into the mechanics used within the game and will recreate them using Unreal's blueprints system. I aim to create simple carry, drop and store mechanisms using help from online tutorials when needed. I also aim to create the sound and, as we do not have an animator, I aim to complete animations also. To organise our tasks and effectively monitor our progress will we use Trello. 
 
 ### Game Sources  
-When researching Little Nightmares 2, it became apparent that its horror-fuelled tension relied on foul/disturbing atmospheres and spaces rather than sudden jump scares and typical horror tactics. Therefore we decided to create a space that aligned with this idea. We've utilised grotesque and scary assets (e.g. blood splatter, body parts, sharp utensils) and intense music/sound to mimic the atmosphere created in Little Nightmares 2. During research, I found the key bindings used within the game and decided to keep these similar to my game also. Through game testing it became apparent that the 'E' key was the most intuitive choice for 'interact', therefore I have kept this key as interact and also added the 'Q' key which was also used within the key bindings. Little Nightmares 2 uses a platformer-type camera system that has a 'handheld' movement. I have attempted to recreate this within the game.
-*What Remains of Edith Finch* 
+When researching Little Nightmares 2, it became apparent that its horror-fuelled tension relied on foul/disturbing atmospheres and spaces rather than sudden jump scares and typical horror tactics. Therefore we will create a space that aligned with this idea. We will utilise grotesque and scary assets (e.g. blood splatter, body parts, sharp utensils) and intense music/sound to mimic the atmosphere created in Little Nightmares 2. During research, I found the key bindings used within the game and will keep these similar when assigning keybindings in my game.  Little Nightmares 2 uses a platformer-type camera system that has a 'handheld' movement, I will attempt to recreate this within the game.
+
 
 ### Academic Sources  
-Through research into game space it became apparent that keeping some areas hidden until the player explores them can increase suspense (Murray, 2020), therefore we have separated the room with curtains to keep areas unknown until entered. This allows the player to have autonomy over their progress within the space and allows them to feel a sense of self exploration as they uncover more of the environment. Video game space can also be used for 'environmental storytelling'. This is a way for the player to unravel more of the narrative through the environment. (Fernandez-Vara, 2011). We have created an environment which slowly reveals more of the narrative context as the player plays. 
-When tackling team work and organisation, the book *Agile Game Development* by Clinton Keith (Keith, 2021) addresses the importance of not prioritising personal goals above team goals. When creating our game we ensured that we worked with synergy and communicated often to achieve a shared outcome. 
+Through research into game space it became apparent that keeping some areas hidden until the player explores them can increase suspense (Murray, 2020), therefore we will separate the room with curtains to keep areas unknown until entered. This will allow the player to have autonomy over their progress within the space and allow them to feel a sense of self exploration as they uncover more of the environment. Video game space can also be used for 'environmental storytelling'. This is a way for the player to unravel more of the narrative through the environment. (Fernandez-Vara, 2011). We will create an environment which slowly reveals more of the narrative context as the player plays. 
+When tackling team work and organisation, the book *Agile Game Development* by Clinton Keith (Keith, 2021) addresses the importance of not prioritising personal goals above team goals. When creating our game we will ensure that we work with synergy and communicate often to achieve a shared outcome. 
 
 
 ### Documentation Sources  
-I used multiple relevant video tutorials to aid my programming of different mechanisms. 
+Throughout my development process I will use multiple online video tutorials to aid me. 
 
 
 ## Implementation 
@@ -34,12 +34,12 @@ After game testing, I implemented UI widgets to indicate which controls to press
 
 Post game testing, I inherited the scales puzzle from my designer and used timeline once again to change the rotation of the scales when the platform overlaps the jar. This puzzle is temperamental and, if given more time, I would've improved it by having the scales affected by all objects including the player.
 
-Upon receiving the rigged player asset, I used Mixamo to create animations and followed tutorials on how to implement these in game. I created multiple blend spaces to smoothly transition animations based on the player's speed, then used an animation blueprint to program these into the gameplay.  
+Upon receiving the rigged player asset, I used Mixamo (Mixamo, s.d.) to create animations and followed tutorials on how to implement these in game. I created multiple blend spaces to smoothly transition animations based on the player's speed, then used an animation blueprint to program these into the gameplay.  
 
 I then created an ambient score for the main level and implemented sound effects throughout. Throughout the process I was also imputing assets and materials as I received them.
 
 ### New Approaches  
-When developing the carry mechanism, I followed an online tutorial for guidance. It provided substantial help for creating the mechanism however I found that the objects carried would frequently collide with the player and cause movement issues. Additionally, the suggested skeletal socket for the objects to bind to was not optimal and resulted in many issues; the object would also change size and shape when carried. Therefore I created a new carry socket and turned physics and collisions off for the object. This then solved the collisions issue and I realised that the initial socket had been scaled up and this was affecting the size of the object. I also encountered a problem when developing the 'store' mechanism: I was unable to use the same carry socket for both mechanisms and after discussing with my peers I decided to create a new socket on the player's back to store objects. I then adjusted this mechanism slightly to recognise which object the player was storing so that when opening the door or escaping the room, those events would only occur if storing the correct object. 
+When developing the carry mechanism, I followed an online tutorial for guidance (How to Carry Physical Objects in Unreal Engine 5, 2023). It provided substantial help for creating the mechanism however I found that the objects carried would frequently collide with the player and cause movement issues. Additionally, the suggested skeletal socket for the objects to bind to was not optimal and resulted in many issues; the object would also change size and shape when carried. Therefore I created a new carry socket and turned physics and collisions off for the object. This then solved the collisions issue and I realised that the initial socket had been scaled up and this was affecting the size of the object. I also encountered a problem when developing the 'store' mechanism: I was unable to use the same carry socket for both mechanisms and after discussing with my peers I decided to create a new socket on the player's back to store objects. I then adjusted this mechanism slightly to recognise which object the player was storing so that when opening the door or escaping the room, those events would only occur if storing the correct object. 
 
 
 ### Testing
@@ -78,10 +78,8 @@ When beginning my project in Unreal, I encountered an issue with file management
 ## Reflection 
 
 ### Research Effectiveness  
-The reseach into Little Nightmares 2 was very useful; it provided aesthetic and gameplay references which eased our production process. It also aided me in choosing animations, mechanisms and keybindings. The video tutorials had a signifigant impact on my crteation of different mechanisms. Although not copied exactly, they served as a template and inspiration for my own blueprints.
-- Assess the usefulness of the research conducted during the project.  
-- Highlight which sources (games, academic, documentation) had the most significant impact on your work and explain why.  
-- Identify any research gaps or areas where additional information could have improved your project outcomes.
+The reseach into Little Nightmares 2 was very useful; it provided aesthetic and gameplay references which eased our production process. It also aided me in choosing appropriate animations, mechanisms and keybindings. The video tutorials also had signifigant impact on my creation of different mechanisms. Although not copied exactly, they served as a template and inspiration for my own blueprints. Through my video research I was able to learn multiple ways of programming a mechanism and could combine them for the best outcome. 
+
 
 ### Positive Analysis 
 On positive reflection, the game suitably fits the brief given and aligns well with the themes and aesthetics from Little Nightmares 2. The game successfully features similar mechanisms and movement and the animations chosen work well within the environment. I was able to tackle difficult issues, such as create my own solutions to fix inefficient blueprints found online. I was also able implement sounds and animations without an animator. The decision to keep the project simple was successful as it enabled us to achieve everything we wanted and left room for additional implementations.
@@ -90,31 +88,42 @@ On positive reflection, the game suitably fits the brief given and aligns well w
 On negative analysis, the game still has small bugs and doesn't work as smoothly as I'd hoped. If given more time I would eliminate these bugs. The scales puzzle works temperamentally and the widgets do not display perfectly. Due to receiving the player asset later than anticipated, I had to rush the animations and footstep sounds which lead to them being not as polished. To eliminate this problem, I would ensure in pre-production deadlines for specific assets. The game also lacks fun which may have been improved by implementing a timer system or an enemy AI. 
 
 ### Next Time
-If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utilised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die. Additionally, I would increase the game testing as the feedback we gained was very valuable and record the sessions for more in depth analysis. I would've also increased the SFX used to increase the realism of the game.
+If I were to undertake a similar project I would ensure in pre-production that stricter team deadlines are set to avoid work being left until the latter weeks. This would prevent work from becoming stacked. I would also increase my workload in the first two weeks as those weeks were purely dedicated to pre-production and I could have utilised that time to develop. In pre-production, I would focus more on the game's enjoyability/entertainment value and explore programming enemy AIs and more ways to 'lose'/die. Additionally, I would increase the game testing as the feedback we gained was very valuable and record the sessions for more in depth analysis. I would've also added more SFX to increase the realism of the game.
 
 ## Bibliography  
 
 
-
-Academic Sources**
+#### Academic Sources
 Fernandez-Vara, C. (2011) 'Game Spaces Speak Volumes: Indexical Storytelling' In: MIT web domain At: https://dspace.mit.edu/handle/1721.1/100274.
+
 Murray, S. (2020) 'Horizons Already Here: Video Games and Landscape' In: Art Journal 79 (2) pp.42–49.
  
 
-**Videos**
-https://youtu.be/P-wbqMKFClk?si=XomIBOsRSP8s7Yd1
-https://youtu.be/kB1_qxNUi9Q?si=IwZCXieHzy26Qq7q
-https://youtu.be/m1sOZumo1M4?si=sGvccZp0fb57qRZb
-https://youtu.be/m1sOZumo1M4?si=mVFv7AdQTmtOBrBC
-https://youtu.be/qbgDaRo312k?si=M_C_cM5iYg3cR4od
+#### Videos
 
-Mixamo
+How to Carry Physical Objects in Unreal Engine 5 (2023) At: https://www.youtube.com/watch?v=bCAlowYEYEI (Accessed  07/04/2025).
 
-**Games**
+How To Create Footsteps In Unreal Engine 5 (Tutorial) (2022) At: https://www.youtube.com/watch?v=P-wbqMKFClk
+
+How To Make An Animation Blueprint In Unreal Engine 5.1 | How To Animate A Character - UE5 Tutorial (2023) At: https://www.youtube.com/watch?v=qbgDaRo312k 
+
+How to Make A (Organizer) Puzzle in Unreal Engine 5 (2022) At: https://www.youtube.com/watch?v=m1sOZumo1M4 
+
+How to Make a 3D Sound in Unreal Engine 5 (2022) At: https://www.youtube.com/watch?v=dttUv6--1nA 
+
+How To Make A 3D Interaction Prompt In Unreal Engine 5 (Tutorial) (2023) At: https://www.youtube.com/watch?v=kB1_qxNUi9Q 
+
+Unreal Engine - Side Scroller Camera Tutorial (2023) At: https://www.youtube.com/watch?v=659FjVeibv0 
+
+Unreal Engine 5 Tutorial - How to Crouch (2022) At: https://www.youtube.com/watch?v=0DQJkzLqCLk 
 
 
 
+#### Games
+Little Nightmares 2. (2021). PC [Game]. Minato City, Bandai Namco Entertainment.  
 
-- Compile a complete list of all sources referenced throughout your project. This may include articles, journals, videos, games, software, documentation, or any other materials.  
-- Ensure all references are formatted according to the [university's citation method](https://mylibrary.uca.ac.uk/referencing).  
-- Organise your references in alphabetical order. Alternatively, you may separate them by type (e.g., academic sources, games, videos), but consistency is key.
+#### Other Sources
+
+Mixamo (s.d.) At: https://www.mixamo.com/#/ .
+
+
