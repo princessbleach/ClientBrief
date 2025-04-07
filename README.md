@@ -30,6 +30,10 @@ I began by replicating the platformer-type camera seen in Little Nightmares 2 an
 
 After these mechanisms, I began the 'book' puzzle in which the player must place each utensil in the correct position to unlock the drawer. To do this, I followed a tutorial in which I learnt to use correlating colour variables. Each object and placement area was given a hex code and if those codes matched, the correct variable would be true. Once every placement area had matched to an object the drawer would open and set a new location for the key and hammer also. I then began programming the climb and escape. Once storing the hammer and overlapping the escape area, the player can press Q to escape. Using timeline, the player's Z position changes over 4 seconds to simulate the climbing of the wall. I developed a similar program for the lock and key. The door swings open when the player is storing the key and presses E. I used timeline for this with a different graph shape to create a more accurate movement for the door. 
 
+![image](https://github.com/user-attachments/assets/0c078a32-524f-4181-8ac9-883d9b57f8fd)
+
+Figure 2. <iframe src="https://blueprintue.com/render/fgu6f6vt/" scrolling="no" allowfullscreen></iframe>
+
 After game testing, I implemented UI widgets to indicate which controls to press and highlight the interactables. The widgets appear when the player is near the object and disappear when the overlap ends. However, I was unable to solve an issue in which the widget shows on the item as it is carried. I also implemented 'need key' and 'need hammer' widgets when the player attempts to interact without the hammer or key. This will help reduce confusion we observed in play testing surrounding the key and hammer's functions. 
 
 Post game testing, I inherited the scales puzzle from my designer and used timeline once again to change the rotation of the scales when the platform overlaps the jar. This puzzle is temperamental and, if given more time, I would've improved it by having the scales affected by all objects including the player.
