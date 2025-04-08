@@ -87,7 +87,7 @@ When beginning my project in Unreal, I encountered an issue with file management
 ## Reflection 
 
 ### Research Effectiveness  
-The reseach into Little Nightmares 2 was very useful; it provided aesthetic and gameplay references which eased our production process. It also aided me in choosing appropriate animations, mechanisms and keybindings. The video tutorials also had signifigant impact on my creation of different mechanisms. Although not copied exactly, they served as a template and inspiration for my own blueprints. Through my video research I was able to learn multiple ways of programming a mechanism and could combine them for the best outcome. 
+The reseach into Little Nightmares 2 was very useful; it provided aesthetic and gameplay references which eased our production process. It also aided me in choosing appropriate animations, mechanisms and keybindings. The video tutorials also had signifigant impact on my creation of different mechanisms. Although not copied exactly, they served as a template and inspiration for my own blueprints. Through my video research I was able to learn multiple ways of programming a mechanism and could combine them for the best outcome. However, some tutorials proved to be 
 
 
 ### Positive Analysis 
