@@ -32,7 +32,7 @@ After these mechanisms, I began the 'book' puzzle in which the player must place
 
 ![image](https://github.com/user-attachments/assets/0c078a32-524f-4181-8ac9-883d9b57f8fd)
 
-Figure 2. <iframe src="https://blueprintue.com/render/fgu6f6vt/" scrolling="no" allowfullscreen></iframe>
+Figure 2. [BlueprintUE](https://blueprintue.com/render/fgu6f6vt/) Colour matching system
 
 After game testing, I implemented UI widgets to indicate which controls to press and highlight the interactables. The widgets appear when the player is near the object and disappear when the overlap ends. However, I was unable to solve an issue in which the widget shows on the item as it is carried. I also implemented 'need key' and 'need hammer' widgets when the player attempts to interact without the hammer or key. This will help reduce confusion we observed in play testing surrounding the key and hammer's functions. 
 
@@ -49,11 +49,16 @@ When developing the carry mechanism, I followed an online tutorial for guidance 
 ### Testing
 We performed blind and guided user testing during our eighth week of production where we would monitor and note any observations as the game was tested. We also provided a form for testers to complete post-testing to collate more in-depth, anonymous feedback. Positively, we found that 100% of testers found the game synonymous with the Little Nightmares 2 aesthetic and gameplay. We also found that 70% of testers understood and enjoyed the 'book' puzzle. However, testers were confused by the controls and struggled to understand them. We noticed most players intuitively used the 'E' key. Therefore, I added user interface widgets to indicate which controls to press and decided to place interactions on the 'E' key as this was the most intuitive. Game testing also highlighted various small bugs and issues that could arise during gameplay, therefore using break pointing I was able to locate the issues within my code. Some testers noted that they struggled to understand where to progress through the game, however this was most likely due to the lack of assets within the game during the time of testing. Once the assets were inputted, I believe this problem is less apparent. 
 
-![AestheticData](https://github.com/user-attachments/assets/5846c8f7-4033-440e-bd70-3f8930f99112)
-Graph showing 100% positive feedback data.
+ ![AestheticData](https://github.com/user-attachments/assets/5846c8f7-4033-440e-bd70-3f8930f99112) 
+ 
+ Figure 3. Graph showing 100% positive feedback data.
 
-![ControlsData](https://github.com/user-attachments/assets/99abe8c8-05a2-43f7-94cc-11e7883345ce)
-Graph showing multiple opinions and confusion on controls. 
+
+ ![ControlsData](https://github.com/user-attachments/assets/99abe8c8-05a2-43f7-94cc-11e7883345ce) 
+ 
+ Figure 4. Graph showing multiple opinions and confusion on controls. 
+ 
+
 
 
 
@@ -101,11 +106,26 @@ If I were to undertake a similar project I would ensure in pre-production that s
 Fernandez-Vara, C. (2011) 'Game Spaces Speak Volumes: Indexical Storytelling' In: MIT web domain At: https://dspace.mit.edu/handle/1721.1/100274.
 
 Murray, S. (2020) 'Horizons Already Here: Video Games and Landscape' In: Art Journal 79 (2) pp.42–49.
- 
+
+#### Audio
+Metal 3.wav by chevyskulls (s.d.) At: https://freesound.org/people/chevyskulls/sounds/505640/ ​#
+
+fluorescent light hum buzz1.flac by kyles (s.d.) At: https://freesound.org/people/kyles/sounds/637541/ ​
+
+FX_metalic_clang_contact_04designedAtmos by NapierFreesound (s.d.) At: https://freesound.org/people/NapierFreesound/sounds/710855/ ​
+
+Footsteps on tile by ChloePieterse (s.d.) At: https://freesound.org/people/ChloePieterse/sounds/764530/ 
+
+#### Games
+Little Nightmares 2. (2021). PC [Game]. Minato City, Bandai Namco Entertainment.  
+
+#### Other Sources
+
+Mixamo (s.d.) At: https://www.mixamo.com/#/ .
 
 #### Videos
 
-How to Carry Physical Objects in Unreal Engine 5 (2023) At: https://www.youtube.com/watch?v=bCAlowYEYEI (Accessed  07/04/2025).
+How to Carry Physical Objects in Unreal Engine 5 (2023) At: https://www.youtube.com/watch?v=bCAlowYEYEI 
 
 How To Create Footsteps In Unreal Engine 5 (Tutorial) (2022) At: https://www.youtube.com/watch?v=P-wbqMKFClk
 
@@ -120,14 +140,5 @@ How To Make A 3D Interaction Prompt In Unreal Engine 5 (Tutorial) (2023) At: htt
 Unreal Engine - Side Scroller Camera Tutorial (2023) At: https://www.youtube.com/watch?v=659FjVeibv0 
 
 Unreal Engine 5 Tutorial - How to Crouch (2022) At: https://www.youtube.com/watch?v=0DQJkzLqCLk 
-
-
-
-#### Games
-Little Nightmares 2. (2021). PC [Game]. Minato City, Bandai Namco Entertainment.  
-
-#### Other Sources
-
-Mixamo (s.d.) At: https://www.mixamo.com/#/ .
 
 
