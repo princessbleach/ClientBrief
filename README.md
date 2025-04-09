@@ -75,14 +75,10 @@ When beginning my project in Unreal, I encountered an issue with file management
 
 
 ### Build Link
-- Share a link to a playable or executable build of your project.  
-- Ensure the build is accessible across relevant platforms and is publicly accessible.  
-- Include any necessary instructions for running the build, such as system requirements or installation steps.
+[GameBuild](https://zefst.itch.io/littlebarbers)
 
 ### Video Demonstration
-- Embed a video or provide a link to a recorded demonstration of your project in action.  
-- The video should showcase key features, functionality, and any unique elements of your project.  
-- Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
+[VideoDemo](https://youtu.be/BTN0nVBivxA)
 
 ## Reflection 
 
